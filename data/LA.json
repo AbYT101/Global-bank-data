@@ -1,0 +1,27 @@
+[
+    {
+        "bank_name": "Banco Nacional de La Habana",
+        "swift_code": "BNHACUHH",
+        "country_code": "LA"
+    },
+    {
+        "bank_name": "Banco de la Rep\u00fablica Argentina",
+        "swift_code": "BRARAARXXXX",
+        "country_code": "LA"
+    },
+    {
+        "bank_name": "Banco Interamericano de Desarrollo",
+        "swift_code": "IABRUS33",
+        "country_code": "LA"
+    },
+    {
+        "bank_name": "Banco do Brasil",
+        "swift_code": "BBRUBRSP",
+        "country_code": "LA"
+    },
+    {
+        "bank_name": "Banco de Cr\u00e9dito de la Isla de La Habana",
+        "swift_code": "BCCLCUHHXX",
+        "country_code": "LA"
+    }
+]

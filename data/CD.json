@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Banque Centrale du Congo",
+        "swift_code": "BCCOCDC",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "Rawbank",
+        "swift_code": "RAWKCDC",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "BCEAO",
+        "swift_code": "BCEAO",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "Afriland First Bank",
+        "swift_code": "AFRACDC",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "Trust Merchant Bank",
+        "swift_code": "TMBRCDC",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": " Banque Commerciale du Congo",
+        "swift_code": "BCCOCD",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "FBN Bank DRC",
+        "swift_code": "FBNKCD",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Banques au Congo",
+        "swift_code": "SGBCDC",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "Kingakati Bank",
+        "swift_code": "KIGTCD",
+        "country_code": "CD"
+    },
+    {
+        "bank_name": "Union Congolaise de Banques",
+        "swift_code": "UCBRCDC",
+        "country_code": "CD"
+    }
+]

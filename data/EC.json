@@ -1,0 +1,62 @@
+[
+    {
+        "bank_name": "Central Bank of Ecuador",
+        "swift_code": "SENLEC101",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco Pichincha",
+        "swift_code": "PICHECEQ",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco Guayaquil",
+        "swift_code": "BGQUECQS",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Produbanco",
+        "swift_code": "PRODECQ2",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco Internacional",
+        "swift_code": "BINTERECQ",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco de Machala",
+        "swift_code": "BAMHECEQ",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Cooperativa de Ahorro y Credito Cacpe Esmeraldas",
+        "swift_code": "",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco del Pac\u00edfico",
+        "swift_code": "BPACECQ",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco Solidario",
+        "swift_code": "SOLIECQ",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco Bolivariano",
+        "swift_code": "BOLIECQ",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Banco ProCredit",
+        "swift_code": "PROCECQ2",
+        "country_code": "EC"
+    },
+    {
+        "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito Jhampa",
+        "swift_code": "",
+        "country_code": "EC"
+    }
+]

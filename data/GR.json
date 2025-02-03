@@ -1,0 +1,62 @@
+[
+    {
+        "bank_name": "National Bank of Greece",
+        "swift_code": "NBTGGRAA",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Alpha Bank",
+        "swift_code": "ALPHGR2A",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Eurobank Ergasias",
+        "swift_code": "EFGIGRAA",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Piraeus Bank",
+        "swift_code": "PIRBGRAA",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Attica Bank",
+        "swift_code": "ATTIGR21",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Bank of Greece",
+        "swift_code": "BNGRGRAA",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Hellenic Bank",
+        "swift_code": "HELBGR21",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Cooperative Bank of Chania",
+        "swift_code": "CHAGGR21",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Cooperative Bank of Thessaloniki",
+        "swift_code": "THSAGR21",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Pancretan Cooperative Bank",
+        "swift_code": "PCRNGR21",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Probank",
+        "swift_code": "PRBKGR21",
+        "country_code": "GR"
+    },
+    {
+        "bank_name": "Alternative Bank",
+        "swift_code": "ALTIGR22",
+        "country_code": "GR"
+    }
+]

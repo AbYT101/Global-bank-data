@@ -1,0 +1,62 @@
+[
+    {
+        "bank_name": "N\u00e1rodn\u00e1 banka Slovenska",
+        "swift_code": "NBSLSKBA",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "Slovensk\u00e1 sporite\u013e\u0148a",
+        "swift_code": "GIBASKBX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "Tatra banka",
+        "swift_code": "TATRSKBX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "V\u00daB banka",
+        "swift_code": "SUBSKBX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "UniCredit Bank",
+        "swift_code": "UNCRSKBX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "\u010cSOB Slovakia",
+        "swift_code": "CEKOSKBX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "HB Reavis",
+        "swift_code": "HBRESKSX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "Po\u0161tov\u00e1 banka",
+        "swift_code": "POBASKBX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "J&T Banka",
+        "swift_code": "JTBSKSKX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "Sberbank Slovensko",
+        "swift_code": "SBERSKBX",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "ZUNO Bank",
+        "swift_code": "ZUNOSKBA",
+        "country_code": "SK"
+    },
+    {
+        "bank_name": "Fortuna Bank",
+        "swift_code": "FORTSKBA",
+        "country_code": "SK"
+    }
+]

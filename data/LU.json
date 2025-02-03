@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Banque et Caisse d'\u00c9pargne de l'\u00c9tat",
+        "swift_code": "BCELLU21",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "BGL BNP Paribas",
+        "swift_code": "BGLXLULL",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "Raiffeisen Bank",
+        "swift_code": "RAIFLU21",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "State Street Bank Luxembourg S.C.A.",
+        "swift_code": "STTALULL",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "Deutsche Bank Luxembourg S.A.",
+        "swift_code": "DEUTLULL",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "ING Luxembourg S.A.",
+        "swift_code": "INGULULL",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "KBC Bank Belgium S.A. - Luxembourg Branch",
+        "swift_code": "KREDBEBB",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "Citi Bank Europe plc, Luxembourg Branch",
+        "swift_code": "CITIUS33",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "Banque de Luxembourg",
+        "swift_code": "BCLXLULL",
+        "country_code": "LU"
+    },
+    {
+        "bank_name": "Fortis Bank (Luxembourg) S.A.",
+        "swift_code": "FORTLULL",
+        "country_code": "LU"
+    }
+]

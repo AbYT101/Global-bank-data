@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Central Bank of Bosnia and Herzegovina",
+        "swift_code": "CBBA BA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "UniCredit Bank d.d.",
+        "swift_code": "BHERBA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "Raiffeisen Bank d.d.",
+        "swift_code": "RZBHBA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "Sberbank BH",
+        "swift_code": "SPBABA22",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "HTE Bank d.d.",
+        "swift_code": "HTEABA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "NLB Banka d.d.",
+        "swift_code": "NLBABA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "Sparkasse Bank d.d.",
+        "swift_code": "SPKABA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "Intesa Sanpaolo Bank",
+        "swift_code": "ISPBBA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "Franjeva\u010dka Banka d.d.",
+        "swift_code": "FBHABA2X",
+        "country_code": "BA"
+    },
+    {
+        "bank_name": "Amalgamated Bank",
+        "swift_code": "ABBA BA2X",
+        "country_code": "BA"
+    }
+]

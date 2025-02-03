@@ -1,0 +1,27 @@
+[
+    {
+        "bank_name": "Banco de Poupan\u00e7a e Cr\u00e9dito",
+        "swift_code": "BPCMAPTPL",
+        "country_code": "PE"
+    },
+    {
+        "bank_name": "Banco Nacional de Angola",
+        "swift_code": "BNACAOXX",
+        "country_code": "PE"
+    },
+    {
+        "bank_name": "Banco BIC",
+        "swift_code": "BICAAA21",
+        "country_code": "PE"
+    },
+    {
+        "bank_name": "Banco Sol",
+        "swift_code": "BSOLMZLX",
+        "country_code": "PE"
+    },
+    {
+        "bank_name": "Banco Angolano de Investimentos",
+        "swift_code": "BAILAOAX",
+        "country_code": "PE"
+    }
+]

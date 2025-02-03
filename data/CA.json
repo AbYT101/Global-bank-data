@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Royal Bank of Canada",
+        "swift_code": "ROYCCAT2XXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "Toronto-Dominion Bank",
+        "swift_code": "TDOMCAT2XXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "Bank of Nova Scotia (Scotiabank)",
+        "swift_code": "NOSCCATTXXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "Bank of Montreal",
+        "swift_code": "BOFMCATTXXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "Canadian Imperial Bank of Commerce (CIBC)",
+        "swift_code": "CIBCCATTXXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "National Bank of Canada",
+        "swift_code": "BNCACAMMXXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "HSBC Bank Canada",
+        "swift_code": "HVBCCATTXXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "Laurentian Bank of Canada",
+        "swift_code": "LAURCAT2XXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "Canadian Western Bank",
+        "swift_code": "CWBKCAT2XXX",
+        "country": "CA"
+    },
+    {
+        "bank_name": "Equitable Bank",
+        "swift_code": "EQBKCAT2XXX",
+        "country": "CA"
+    }
+]

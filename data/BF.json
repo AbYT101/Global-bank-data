@@ -1,0 +1,47 @@
+[
+    {
+        "bank_name": "Banque Centrale des \u00c9tats de l'Afrique de l'Ouest",
+        "swift_code": " BCEAO",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "Banque International du Burkina",
+        "swift_code": "BICUBFNN",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "Ecobank Burkina Faso",
+        "swift_code": "ECOKBFNN",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "La Banque Agricole et Commerciale du Ghana",
+        "swift_code": "BACGBFNN",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Burkina Faso",
+        "swift_code": "SGBCBFNN",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "Banque Populaire de Burkina Faso",
+        "swift_code": "BPPF",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "Banque Sah\u00e9lo-Saharienne pour l\u2019Investissement et le Commerce",
+        "swift_code": "BSICBFNN",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "Banque de l'Habitat du Burkina",
+        "swift_code": "HBKBFBF",
+        "country_code": "BF"
+    },
+    {
+        "bank_name": "BICICI Burkina Faso",
+        "swift_code": "BICIBFNN",
+        "country_code": "BF"
+    }
+]

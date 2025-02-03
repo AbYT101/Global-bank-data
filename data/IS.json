@@ -1,0 +1,42 @@
+[
+    {
+        "bank_name": "Landsbankinn",
+        "swift_code": "LISBISRE",
+        "country_code": "IS"
+    },
+    {
+        "bank_name": "Arion Bank",
+        "swift_code": "ARIONISRE",
+        "country_code": "IS"
+    },
+    {
+        "bank_name": "Islandsbanki",
+        "swift_code": "ISBIISRE",
+        "country_code": "IS"
+    },
+    {
+        "bank_name": "Central Bank of Iceland",
+        "swift_code": "CBISISRE",
+        "country_code": "IS"
+    },
+    {
+        "bank_name": "Se\u00f0labanki \u00cdslands",
+        "swift_code": "CBISISRE",
+        "country_code": "IS"
+    },
+    {
+        "bank_name": "Kaupskil",
+        "swift_code": "KauksenL",
+        "country_code": "IS"
+    },
+    {
+        "bank_name": "Sparisj\u00f3\u00f0ur Nor\u00f0urlands",
+        "swift_code": "SNIJISRE",
+        "country_code": "IS"
+    },
+    {
+        "bank_name": "Sparisj\u00f3\u00f0ur Svarfd\u00e6lings",
+        "swift_code": "SSVAISRE",
+        "country_code": "IS"
+    }
+]

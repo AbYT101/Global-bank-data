@@ -1,0 +1,47 @@
+[
+    {
+        "bank_name": "Central Bank of Liberia",
+        "swift_code": "CELRLRLX",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "Liberia Bank for Development and Investment",
+        "swift_code": "LBIDLRLX",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "International Bank Liberia Limited",
+        "swift_code": "IBLLLRLX",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "Ecobank Liberia",
+        "swift_code": "ECOCLRLR",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "United Bank for Africa Liberia",
+        "swift_code": "UBAFLRLX",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "First International Bank Liberia",
+        "swift_code": "FIBLLRLR",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "Liberia Entrepreneurship and Equity Fund Bank",
+        "swift_code": "LEEFLRLX",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "Global Bank of Commerce and Development",
+        "swift_code": "GBCLLRLX",
+        "country_code": "LR"
+    },
+    {
+        "bank_name": "Access Bank Liberia",
+        "swift_code": "ACCBLRLX",
+        "country_code": "LR"
+    }
+]

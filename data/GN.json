@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Central Bank of Guinea",
+        "swift_code": "BICGGNXXXX",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Banque Internationale pour le Commerce et l'Industrie de la Guin\u00e9e (BICIG)",
+        "swift_code": "BICIGNGG",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Banque de l'Habitat de Guin\u00e9e",
+        "swift_code": "BHAGGNGN",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Union des Banques pour le Commerce et l'Industrie de Guin\u00e9e",
+        "swift_code": "UBCI",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Banques en Guin\u00e9e (SGBG)",
+        "swift_code": "SGBGGNAC",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Banque Populaire de Guin\u00e9e",
+        "swift_code": "BPGIGNGN",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Banque Agricole de Guin\u00e9e",
+        "swift_code": "BAGU",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "First International Bank",
+        "swift_code": "FIBIGNGN",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Ecobank Guinea",
+        "swift_code": "ECOCGNXXXX",
+        "country_code": "GN"
+    },
+    {
+        "bank_name": "Orabank Guinea",
+        "swift_code": "ORABGNDA",
+        "country_code": "GN"
+    }
+]

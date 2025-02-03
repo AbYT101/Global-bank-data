@@ -1,0 +1,42 @@
+[
+    {
+        "bank_name": "Eastern Caribbean Central Bank",
+        "swift_code": "ECCBLCGS",
+        "country_code": "BB"
+    },
+    {
+        "bank_name": "Bank of Barbados",
+        "swift_code": "BBDABBBX",
+        "country_code": "BB"
+    },
+    {
+        "bank_name": "Republic Bank (Barbados) Limited",
+        "swift_code": "RBBTBBBX",
+        "country_code": "BB"
+    },
+    {
+        "bank_name": "CIBC FirstCaribbean International Bank",
+        "swift_code": "FCIBBBDD",
+        "country_code": "BB"
+    },
+    {
+        "bank_name": "Scotiabank Barbados",
+        "swift_code": "BSDABBBX",
+        "country_code": "BB"
+    },
+    {
+        "bank_name": "First Citizens Bank",
+        "swift_code": "FCBBTTTT",
+        "country_code": "BB"
+    },
+    {
+        "bank_name": "The Bank of Nova Scotia",
+        "swift_code": "NOSCBBBX",
+        "country_code": "BB"
+    },
+    {
+        "bank_name": "Barbados National Bank",
+        "swift_code": "BNBBBBBX",
+        "country_code": "BB"
+    }
+]

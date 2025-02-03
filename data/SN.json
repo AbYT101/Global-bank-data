@@ -1,0 +1,57 @@
+[
+    {
+        "bank_name": "Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO)",
+        "swift_code": "BCEAO2D",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Banques en S\u00e9n\u00e9gal (SGBS)",
+        "swift_code": "SGBSSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "CBAO (Compagnie Bancaire de l'Afrique de l'Ouest)",
+        "swift_code": "CBAOSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Client\u00e8le d'Afrique",
+        "swift_code": "CLIENTDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Banque Atlantique S\u00e9n\u00e9gal",
+        "swift_code": "BANSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "La Banque Postale",
+        "swift_code": "LBPSSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Banque S\u00e9n\u00e9galaise de D\u00e9veloppement (BSD)",
+        "swift_code": "BSDCSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 S\u00e9n\u00e9galaise de Banque Actuelle (SSB)",
+        "swift_code": "SSBSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Banque de l'Habitat du S\u00e9n\u00e9gal (BHS)",
+        "swift_code": "BHSCSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Fonds de Promotion de l'Industrie (FPI)",
+        "swift_code": "FPIUSNDA",
+        "country_code": "SN"
+    },
+    {
+        "bank_name": "Banque Agricole du S\u00e9n\u00e9gal",
+        "swift_code": "BASCSNDA",
+        "country_code": "SN"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "bank_name": "Banque Centrale de la R\u00e9publique Centrafricaine",
+        "swift_code": "CFAFCAFF",
+        "country_code": "CF"
+    },
+    {
+        "bank_name": "Banque Commerciale Centrafricaine",
+        "swift_code": "BCCCFACF",
+        "country_code": "CF"
+    },
+    {
+        "bank_name": "Banque de l'Habitat de la Centrafrique",
+        "swift_code": "BHCAFRP1",
+        "country_code": "CF"
+    },
+    {
+        "bank_name": "Banque Populaire de Centrafrique",
+        "swift_code": "BPCFCAFF",
+        "country_code": "CF"
+    },
+    {
+        "bank_name": "Union Centrafricaine de Banques",
+        "swift_code": "UCBCCFCA",
+        "country_code": "CF"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Centrafrique",
+        "swift_code": "SGCAFRP1",
+        "country_code": "CF"
+    }
+]

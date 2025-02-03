@@ -1,0 +1,32 @@
+[
+    {
+        "bank_name": "Bank of Swaziland",
+        "swift_code": "BOSWZAJM",
+        "country_code": "SZ"
+    },
+    {
+        "bank_name": "Standard Bank Swaziland",
+        "swift_code": "SBZASZMX",
+        "country_code": "SZ"
+    },
+    {
+        "bank_name": "First National Bank Swaziland",
+        "swift_code": "FNBASZMX",
+        "country_code": "SZ"
+    },
+    {
+        "bank_name": "Swaziland Building Society",
+        "swift_code": "SBSWZAJJ",
+        "country_code": "SZ"
+    },
+    {
+        "bank_name": "Inhlanyelo General Insurance Company",
+        "swift_code": "",
+        "country_code": "SZ"
+    },
+    {
+        "bank_name": "Emlanjeni Savings and Credit Cooperative",
+        "swift_code": "",
+        "country_code": "SZ"
+    }
+]

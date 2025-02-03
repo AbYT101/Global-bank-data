@@ -1,0 +1,87 @@
+[
+    {
+        "bank_name": "Banco Santander",
+        "swift_code": "BSCHESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Banco Bilbao Vizcaya Argentaria",
+        "swift_code": "BBVAESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "CaixaBank",
+        "swift_code": "CAIXESBB",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Banco de Sabadell",
+        "swift_code": "BSABESBB",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Bankia",
+        "swift_code": "BKIAESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Unicaja Banco",
+        "swift_code": "UCJAES2M",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Ibercaja Banco",
+        "swift_code": "IBECESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Kutxabank",
+        "swift_code": "KUTVES2A",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Cajasur",
+        "swift_code": "CJAUES2M",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Liberbank",
+        "swift_code": "LIBRES2M",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Banca March",
+        "swift_code": "BAMAES2M",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Targo Bank",
+        "swift_code": "TARGESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Banco Pichincha Espa\u00f1a",
+        "swift_code": "BPEAESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Banc Sabadell",
+        "swift_code": "BSABESBB",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Banca Privada d'Andorra",
+        "swift_code": "BPDAESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Andbank",
+        "swift_code": "ANDBESMM",
+        "country_code": "ES"
+    },
+    {
+        "bank_name": "Eurobank",
+        "swift_code": "EURUESMM",
+        "country_code": "ES"
+    }
+]

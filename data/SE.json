@@ -1,0 +1,47 @@
+[
+    {
+        "bank_name": "Swedbank",
+        "swift_code": "SWEDSESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "Skandinaviska Enskilda Banken (SEB)",
+        "swift_code": "ESSESESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "Handelsbanken",
+        "swift_code": "HANDSESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "Nordea Bank Sweden",
+        "swift_code": "NDEASESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "SBAB Bank",
+        "swift_code": "SBABSESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "ICA Banken",
+        "swift_code": "ICABSESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "L\u00e4nsf\u00f6rs\u00e4kringar Bank",
+        "swift_code": "LANSSESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "Skandiabanken",
+        "swift_code": "SKANSESS",
+        "country": "SE"
+    },
+    {
+        "bank_name": "Marginalen Bank",
+        "swift_code": "MARGSESS",
+        "country": "SE"
+    }
+]

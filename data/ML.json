@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "BAM - Banque de l'Afrique de l'Ouest",
+        "swift_code": "BACOMLML",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "Banque Malienne de Solidarit\u00e9",
+        "swift_code": "BAMSMLML",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "BICIM - Banque Internationale pour le Commerce et l'Industrie du Mali",
+        "swift_code": "BICIMLML",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "BNDA - Banque Nationale de D\u00e9veloppement Agricole",
+        "swift_code": "BNDA MLML",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "Mali Microfinance",
+        "swift_code": "",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "La Banque Postale du Mali",
+        "swift_code": "",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "Banque de l'Habitat du Mali",
+        "swift_code": "BHMLMLML",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Banques au Mali",
+        "swift_code": "SGCIMLML",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "Banque Commerciale du Mali",
+        "swift_code": "BCMIMLML",
+        "country_code": "ML"
+    },
+    {
+        "bank_name": "Ecobank Mali",
+        "swift_code": "ECOMMLML",
+        "country_code": "ML"
+    }
+]

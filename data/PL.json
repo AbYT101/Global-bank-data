@@ -1,0 +1,77 @@
+[
+    {
+        "bank_name": "PKO Bank Polski",
+        "swift_code": "BPKOPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Bank Pekao",
+        "swift_code": "PKOOPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Santander Bank Polska",
+        "swift_code": "BSANTE2X",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "mBank",
+        "swift_code": "BREXPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "ING Bank \u015al\u0105ski",
+        "swift_code": "INGBPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Cooperative Bank in Brodnica",
+        "swift_code": "GBRWPLP1",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Deutsche Bank Polska",
+        "swift_code": "DEUTPLPX",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Alior Bank",
+        "swift_code": "ALBPPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Getin Noble Bank",
+        "swift_code": "GBGCPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Citi Handlowy",
+        "swift_code": "CITIPLPX",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Bank Millennium",
+        "swift_code": "BIGBPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "BNP Paribas Bank Polska",
+        "swift_code": "EXPLPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Powszechna Kasa Oszcz\u0119dno\u015bci",
+        "swift_code": "PKOPPLPW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Euro Bank",
+        "swift_code": "EUROPPLW",
+        "country_code": "PL"
+    },
+    {
+        "bank_name": "Polski Bank Kom\u00f3rek Macierzystych",
+        "swift_code": "PBKMPLPW",
+        "country_code": "PL"
+    }
+]

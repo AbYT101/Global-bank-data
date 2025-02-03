@@ -1,0 +1,82 @@
+[
+    {
+        "bank_name": "Nepal Rastra Bank",
+        "swift_code": "NARBNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Nepal Bank Limited",
+        "swift_code": "NBLBNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Rastriya Banijya Bank",
+        "swift_code": "RBBENPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Himalayan Bank Limited",
+        "swift_code": "HBLBNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Standard Chartered Bank Nepal Limited",
+        "swift_code": "SCBLNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "NIC Asia Bank Limited",
+        "swift_code": "NICBNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Nepal Investment Bank Limited",
+        "swift_code": "NIBLNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Global IME Bank Limited",
+        "swift_code": "GIMEPNKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Lumbini Bikas Bank Limited",
+        "swift_code": "LBBLNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Everest Bank Limited",
+        "swift_code": "EVBLNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Siddhartha Bank Limited",
+        "swift_code": "SBLBNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Prime Commercial Bank Limited",
+        "swift_code": "PCBLNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Janata Bank Limited",
+        "swift_code": "JBLBNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Khadya Nidhi Bank Limited",
+        "swift_code": "KNBLNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Century Bank Limited",
+        "swift_code": "CBLBNPKA",
+        "country_code": "NP"
+    },
+    {
+        "bank_name": "Agricultural Development Bank Limited",
+        "swift_code": "ADBLNPKA",
+        "country_code": "NP"
+    }
+]

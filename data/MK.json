@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "NLB Banka AD Skopje",
+        "swift_code": "MKDBMK2X",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "Stopanska Banka AD Skopje",
+        "swift_code": "STBAMK22",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "Komercijalna Banka AD Skopje",
+        "swift_code": "KOBSMK2X",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "Sparkasse Bank Makedonija AD",
+        "swift_code": "SPAKMK22",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "Titov Bank",
+        "swift_code": "TITOMK22",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "Makedonska Banka za Podobravanje",
+        "swift_code": "MKBPMK22",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "ProCredit Bank AD Skopje",
+        "swift_code": "PRCBMK22",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "Union Banka AD",
+        "swift_code": "UNBMK22",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "Postenska Banka",
+        "swift_code": "POBKMK22",
+        "country_code": "MK"
+    },
+    {
+        "bank_name": "TAV Bank",
+        "swift_code": "TAVDMK22",
+        "country_code": "MK"
+    }
+]

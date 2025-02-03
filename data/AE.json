@@ -1,0 +1,227 @@
+[
+    {
+        "bank_name": "Abu Dhabi Commercial Bank",
+        "swift_code": "ADCBAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Abu Dhabi Islamic Bank",
+        "swift_code": "ABDIAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Emirates NBD Bank PJSC",
+        "swift_code": "EBILAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Dubai Islamic Bank",
+        "swift_code": "DUIBAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Mashreq Bank PSC",
+        "swift_code": "BOMLAEADHDO",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Commercial Bank of Dubai",
+        "swift_code": "CBDUAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "National Bank of Fujairah",
+        "swift_code": "NBFUAEAFXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Standard Chartered Bank (UAE)",
+        "swift_code": "SCBLAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "HSBC Bank Middle East Limited",
+        "swift_code": "BBMEAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "First Abu Dhabi Bank",
+        "swift_code": "FADIAAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Arab Bank for Investment and Foreign Trade",
+        "swift_code": "ABINAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Arab African International Bank",
+        "swift_code": "ARAIAEADAUH",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Ajman Bank PJSC",
+        "swift_code": "AJMNAEAJXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Al Ahli Bank of Kuwait (Abu Dhabi)",
+        "swift_code": "ABKKAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Al Fardan Exchange",
+        "swift_code": "FEXEAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Al Hilal Bank",
+        "swift_code": "HLALAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Al Khaliji France S.A.",
+        "swift_code": "LICOAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Al Mal Capital PSC",
+        "swift_code": "AMCXAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Al Rostamani International Exchange",
+        "swift_code": "TCARAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Bank of Baroda (Dubai Main Office)",
+        "swift_code": "BARBAEADDUB",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Bank Saderat Iran (Dubai)",
+        "swift_code": "BSIRAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Banque Misr (Abu Dhabi Branch)",
+        "swift_code": "BCAIAEAA802",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Barclays Bank PLC (Dubai)",
+        "swift_code": "BARCAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "BloM Bank France S.A.",
+        "swift_code": "BLOMAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "BNP Paribas (Abu Dhabi)",
+        "swift_code": "BNPAAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Citibank N.A. (Dubai)",
+        "swift_code": "CITIAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Commercial Bank International (Abu Dhabi Branch)",
+        "swift_code": "CLBIAEADAD1",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Dubai Bank PJSC",
+        "swift_code": "DBXPAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Emirates Islamic Bank",
+        "swift_code": "MEBLAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "First Gulf Bank",
+        "swift_code": "FGBMAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Habib Bank Limited",
+        "swift_code": "HABBAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Industrial and Commercial Bank of China (Middle East)",
+        "swift_code": "ICBKAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "International Petroleum Investment Company",
+        "swift_code": "IPIOAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Invest AD",
+        "swift_code": "ADICAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Janata Bank (Abu Dhabi Branch)",
+        "swift_code": "JANBAEAAAUH",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Lloyds TSB Bank PLC (Dubai)",
+        "swift_code": "LOYDAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Lulu International Exchange",
+        "swift_code": "LULUAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Mawarid Finance PJSC",
+        "swift_code": "MAWFAEAAXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "National Bank of Oman",
+        "swift_code": "NBOMAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "National Bank of Ras Al-Khaimah",
+        "swift_code": "NRAKAEAKXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "National Bank of Umm Al Qaiwain",
+        "swift_code": "UMMQAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Noor Islamic Bank",
+        "swift_code": "NISLAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "United Arab Bank",
+        "swift_code": "UARBAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "United Bank Ltd.",
+        "swift_code": "UNILAEADXXX",
+        "country": "AE"
+    },
+    {
+        "bank_name": "Wall Street Exchange Centre LLC",
+        "swift_code": "WSEEAEADXXX",
+        "country": "AE"
+    }
+]

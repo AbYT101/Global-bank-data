@@ -1,0 +1,82 @@
+[
+    {
+        "bank_name": "DNB ASA",
+        "swift_code": "DNBANOKK",
+        "country": "NO"
+    },
+    {
+        "bank_name": "Nordea Bank Norge",
+        "swift_code": "NDEANOKK",
+        "country": "NO"
+    },
+    {
+        "bank_name": "Handelsbanken Norge",
+        "swift_code": "HANDNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 SR-Bank",
+        "swift_code": "SPRSNOKK",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 SMN",
+        "swift_code": "SPMNNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 \u00d8stlandet",
+        "swift_code": "SPOENOKK",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 Nord-Norge",
+        "swift_code": "SPNNNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 Ringerike Hadeland",
+        "swift_code": "SPRHNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 Gudbrandsdal",
+        "swift_code": "SPGDNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 Telemark",
+        "swift_code": "SPTMNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 Hallingdal",
+        "swift_code": "SPHLNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "SpareBank 1 S\u00f8re Sunnm\u00f8re",
+        "swift_code": "SPSSNO2X",
+        "country": "NO"
+    },
+    {
+        "bank_name": "Sparebanken Vest",
+        "swift_code": "SPVENOKK",
+        "country": "NO"
+    },
+    {
+        "bank_name": "Sbanken",
+        "swift_code": "SBANNOKK",
+        "country": "NO"
+    },
+    {
+        "bank_name": "Storebrand Bank",
+        "swift_code": "STBLNOKK",
+        "country": "NO"
+    },
+    {
+        "bank_name": "Landkreditt Bank",
+        "swift_code": "LANKNO2X",
+        "country": "NO"
+    }
+]

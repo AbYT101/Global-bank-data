@@ -1,0 +1,72 @@
+[
+    {
+        "bank_name": "Cr\u00e9dit Agricole",
+        "swift_code": "AGRIFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "swift_code": "SOGEFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "BNP Paribas",
+        "swift_code": "BNPAFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Groupe BPCE",
+        "swift_code": "BPCEFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "La Banque Postale",
+        "swift_code": "LABPFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Cr\u00e9dit Mutuel",
+        "swift_code": "CMMEFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "HSBC France",
+        "swift_code": "CCFRFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Banque Palatine",
+        "swift_code": "BSYDFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "CIC",
+        "swift_code": "CICRFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Cr\u00e9dit du Nord",
+        "swift_code": "CDNRFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Natixis",
+        "swift_code": "NATXFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Rothschild & Co",
+        "swift_code": "ROTHFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Banque de France",
+        "swift_code": "BDFEFRPP",
+        "country_code": "FR"
+    },
+    {
+        "bank_name": "Teb Bank",
+        "swift_code": "TEBIFRPP",
+        "country_code": "FR"
+    }
+]

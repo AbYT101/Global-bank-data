@@ -1,0 +1,502 @@
+[
+    {
+        "bank_name": "JPMorgan Chase",
+        "swift_code": "CHASUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Bank of America",
+        "swift_code": "BOFAUS3N",
+        "country": "US"
+    },
+    {
+        "bank_name": "Citibank",
+        "swift_code": "CITIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Wells Fargo",
+        "swift_code": "WFBIUS6S",
+        "country": "US"
+    },
+    {
+        "bank_name": "Goldman Sachs",
+        "swift_code": "GSCMUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Morgan Stanley",
+        "swift_code": "MSNYUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "U.S. Bancorp",
+        "swift_code": "USBKUS44XXX",
+        "country": "US"
+    },
+    {
+        "bank_name": "PNC Financial Services",
+        "swift_code": "PNCCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "TD Bank, N.A.",
+        "swift_code": "TDOMUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Truist Financial",
+        "swift_code": "TRUIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Capital One",
+        "swift_code": "CAPLUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Charles Schwab Corporation",
+        "swift_code": "SCHWUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "The Bank of New York Mellon",
+        "swift_code": "IRVTUS3N",
+        "country": "US"
+    },
+    {
+        "bank_name": "State Street Corporation",
+        "swift_code": "PSBCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "BMO USA",
+        "swift_code": "BMOAUS44",
+        "country": "US"
+    },
+    {
+        "bank_name": "American Express",
+        "swift_code": "AEXPUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "HSBC Bank USA",
+        "swift_code": "HSCBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "USAA",
+        "swift_code": "USAAUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "First Citizens BancShares",
+        "swift_code": "FCNCAUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Citizens Financial Group",
+        "swift_code": "CFGUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Fifth Third Bank",
+        "swift_code": "FIFTHUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "M&T Bank",
+        "swift_code": "MTBKUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "UBS",
+        "swift_code": "UBSWUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Huntington Bancshares",
+        "swift_code": "HBANUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Ally Financial",
+        "swift_code": "ALLYUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Barclays",
+        "swift_code": "BARCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "KeyCorp",
+        "swift_code": "KEYCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Ameriprise",
+        "swift_code": "AMERUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Santander Bank",
+        "swift_code": "SANTUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "RBC Bank",
+        "swift_code": "RBCBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Regions Financial Corporation",
+        "swift_code": "REGIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Northern Trust",
+        "swift_code": "NTRSUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Discover Financial",
+        "swift_code": "DISCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Synchrony Financial",
+        "swift_code": "SYNCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Deutsche Bank",
+        "swift_code": "DEUTUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "New York Community Bank",
+        "swift_code": "NYCBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Mizuho Financial Group",
+        "swift_code": "MIZHUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Raymond James Financial",
+        "swift_code": "RJFUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "First Horizon National Corporation",
+        "swift_code": "FHNUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Western Alliance Bancorporation",
+        "swift_code": "WALUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Comerica",
+        "swift_code": "CMAUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Webster Bank",
+        "swift_code": "WEBRUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "CIBC Bank USA",
+        "swift_code": "CIBCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "East West Bank",
+        "swift_code": "EWBCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Popular, Inc.",
+        "swift_code": "BPOPUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "BNP Paribas",
+        "swift_code": "BNPPUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "John Deere Bank",
+        "swift_code": "DEERUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Wintrust Financial",
+        "swift_code": "WTFCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Valley Bank",
+        "swift_code": "VLYUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Synovus",
+        "swift_code": "SNVUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Old National Bank",
+        "swift_code": "ONBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Columbia Bank",
+        "swift_code": "COLBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Cullen/Frost Bankers, Inc.",
+        "swift_code": "CFRBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Pinnacle Financial Partners",
+        "swift_code": "PNFPUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "BOK Financial Corporation",
+        "swift_code": "BOKFUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "FNB Corporation",
+        "swift_code": "FNBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "UMB Financial Corporation",
+        "swift_code": "UMBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "South State Bank",
+        "swift_code": "SSBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Associated Banc-Corp",
+        "swift_code": "ASBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Prosperity Bancshares",
+        "swift_code": "PBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "EverBank",
+        "swift_code": "EVRBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Midland",
+        "swift_code": "MIDBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Sumitomo Mitsui Banking Corporation",
+        "swift_code": "SMBCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Stifel",
+        "swift_code": "SFUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "BankUnited",
+        "swift_code": "BKUUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Hancock Whitney",
+        "swift_code": "HWCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "SoFi",
+        "swift_code": "SOFIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Banc of California",
+        "swift_code": "BANCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Fulton Financial Corporation",
+        "swift_code": "FULTUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "First National of Nebraska",
+        "swift_code": "FINNUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Texas Capital Bank",
+        "swift_code": "TCBIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Commerce Bancshares",
+        "swift_code": "CBSHUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "United Bank (West Virginia)",
+        "swift_code": "UBSIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "First Interstate BancSystem",
+        "swift_code": "FIBKUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Glacier Bancorp",
+        "swift_code": "GBCIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "WaFd Bank",
+        "swift_code": "WAFDUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "FirstBank Holding Co",
+        "swift_code": "FBHUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "United Community Bank",
+        "swift_code": "UCBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Simmons Bank",
+        "swift_code": "SFNCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Arvest Bank",
+        "swift_code": "ARVSUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Ameris Bancorp",
+        "swift_code": "ABCBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "BCI Financial Group",
+        "swift_code": "BCIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Eastern Bank",
+        "swift_code": "EBCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Atlantic Union Bank",
+        "swift_code": "AUBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Provident Bank of New Jersey",
+        "swift_code": "PFSUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Bank of Hawaii",
+        "swift_code": "BOHUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "First Hawaiian Bank",
+        "swift_code": "FHBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Axos Financial",
+        "swift_code": "AXOSUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Cathay Bank",
+        "swift_code": "CATYUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Home BancShares",
+        "swift_code": "HOMBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Beal Bank",
+        "swift_code": "BEALUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Customers Bancorp",
+        "swift_code": "CUBIUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "WSFS Bank",
+        "swift_code": "WSFSUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Pinnacle Bancorp",
+        "swift_code": "PNBCUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Independent Bank",
+        "swift_code": "INDBUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "First BanCorp",
+        "swift_code": "FBPUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Merchants Bank",
+        "swift_code": "MERCHUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Central Bancompany",
+        "swift_code": "CBNUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "Independent Bank Group",
+        "swift_code": "IBTXUS33",
+        "country": "US"
+    },
+    {
+        "bank_name": "WesBanco",
+        "swift_code": "WSBCUS33",
+        "country": "US"
+    }
+]

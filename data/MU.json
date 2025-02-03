@@ -1,0 +1,42 @@
+[
+    {
+        "bank_name": "Bank of Mauritius",
+        "swift_code": "BOMUMU",
+        "country_code": "MU"
+    },
+    {
+        "bank_name": "State Bank of Mauritius",
+        "swift_code": "SBMUMU",
+        "country_code": "MU"
+    },
+    {
+        "bank_name": "Mauritius Commercial Bank",
+        "swift_code": "MCBLMU",
+        "country_code": "MU"
+    },
+    {
+        "bank_name": "Bank One",
+        "swift_code": "BKHUMU",
+        "country_code": "MU"
+    },
+    {
+        "bank_name": "AfrAsia Bank",
+        "swift_code": "AFRUMU",
+        "country_code": "MU"
+    },
+    {
+        "bank_name": "Saraswat Bank",
+        "swift_code": "SARWUMU",
+        "country_code": "MU"
+    },
+    {
+        "bank_name": "BRED Bank",
+        "swift_code": "BREDEMU",
+        "country_code": "MU"
+    },
+    {
+        "bank_name": "Banque des Mascareignes",
+        "swift_code": "BMIUMU",
+        "country_code": "MU"
+    }
+]

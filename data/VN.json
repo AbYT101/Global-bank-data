@@ -1,0 +1,112 @@
+[
+    {
+        "bank_name": "BIDV",
+        "swift_code": "BIDVVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Vietcombank",
+        "swift_code": "VCBVVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "VietinBank",
+        "swift_code": "ITEVVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Agribank",
+        "swift_code": "AGRI.VNVN",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Techcombank",
+        "swift_code": "TCBHVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "MB Bank",
+        "swift_code": "MIVBVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "VPBank",
+        "swift_code": "VPBKVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "SHB",
+        "swift_code": "SHBVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Saigonbank",
+        "swift_code": "SGBEVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "OceanBank",
+        "swift_code": "OCEVVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "B\u1eafc \u00c1 Bank",
+        "swift_code": "BACAVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Eximbank",
+        "swift_code": "EBVIVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "HDBank",
+        "swift_code": "HDBCVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Nam A Bank",
+        "swift_code": "NAMAVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "LienVietPostBank",
+        "swift_code": "LPBKVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "SCB",
+        "swift_code": "SGBEVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "PVcomBank",
+        "swift_code": "PVCBVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Vietnam Maritime Commercial Joint Stock Bank",
+        "swift_code": "VNMBVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Saigon-Hanoi Bank",
+        "swift_code": "SHBAVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Indovina Bank",
+        "swift_code": "IVBKVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "Joint Stock Commercial Bank for Industry and Trade",
+        "swift_code": "ICBVVNVX",
+        "country_code": "VN"
+    },
+    {
+        "bank_name": "FPT Bank",
+        "swift_code": "FPTBVNVX",
+        "country_code": "VN"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "bank_name": "Danske Bank A/S",
+        "swift_code": "DABADKKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Nordea Bank Abp",
+        "swift_code": "NDEADKKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Jyske Bank A/S",
+        "swift_code": "JYBADKKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Sydbank A/S",
+        "swift_code": "SYBKDK22",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Salling Bank A/S",
+        "swift_code": "SABADKKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Ringkj\u00f8bing Landmandsbank",
+        "swift_code": "RLBDDK22",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Arbejdsgiverens Landsbank A/S",
+        "swift_code": "ALBDDKKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "L\u00e5n & Spar Bank",
+        "swift_code": "LSBDDK22",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Fjordbank Mors",
+        "swift_code": "FJBMKDKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "T\u00f8nder Bank A/S",
+        "swift_code": "T\u00d8DBDK22",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Danske Andelskasser",
+        "swift_code": "DANDDKKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Sydvestjysk Bank A/S",
+        "swift_code": "SVBDDK22",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Nordjyske Bank",
+        "swift_code": "NJJBDKKK",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Sparekassen Sj\u00e6lland-Fyn",
+        "swift_code": "SJFYDK22",
+        "country_code": "DK"
+    },
+    {
+        "bank_name": "Vikingekassen",
+        "swift_code": "VIKBDKKK",
+        "country_code": "DK"
+    }
+]

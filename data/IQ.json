@@ -1,0 +1,72 @@
+[
+    {
+        "bank_name": "Central Bank of Iraq",
+        "swift_code": "CBIQIQBX",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Trade Bank of Iraq",
+        "swift_code": "TBIIIQBX",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Iraq Islamic Bank",
+        "swift_code": "IIBIIQBX",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Bank of Baghdad",
+        "swift_code": "BOBIIQBX",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "National Bank of Iraq",
+        "swift_code": "NIBIQIQA",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Iraq Middle East Investment Bank",
+        "swift_code": "IMEIIRQB",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Al-Rafidain Bank",
+        "swift_code": "RABIIQBX",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Mosul Bank",
+        "swift_code": "MOSLIQBX",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Dijlah & Furat Bank",
+        "swift_code": "DIFIQIQA",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Iraqi Commercial Bank",
+        "swift_code": "ICBIIQBX",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Sumer Bank",
+        "swift_code": "SUMIIQBA",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Al-Bilad Bank",
+        "swift_code": "BILAIQBA",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "Iraq Bank for Trade",
+        "swift_code": "IBTIIQBA",
+        "country_code": "IQ"
+    },
+    {
+        "bank_name": "First National Bank of Iraq",
+        "swift_code": "FNBIIQBA",
+        "country_code": "IQ"
+    }
+]

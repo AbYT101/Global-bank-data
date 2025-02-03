@@ -1,0 +1,57 @@
+[
+    {
+        "bank_name": "Banco Agrario de Colombia",
+        "swift_code": "AGROCOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Bancolombia S.A.",
+        "swift_code": "BICOCOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Banco de Bogot\u00e1",
+        "swift_code": "BOGOCOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Banco de Occidente",
+        "swift_code": "OCCICO43",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Davivienda",
+        "swift_code": "DAVICOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Banco Popular",
+        "swift_code": "POPCCOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Banco Caja Social",
+        "swift_code": "CASCCOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Banco AV Villas",
+        "swift_code": "AVVI CO BB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Finagro",
+        "swift_code": "FINACOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Colpatria",
+        "swift_code": "COLPCOBB",
+        "country_code": "CO"
+    },
+    {
+        "bank_name": "Banco Pichincha",
+        "swift_code": "PICICO 44",
+        "country_code": "CO"
+    }
+]

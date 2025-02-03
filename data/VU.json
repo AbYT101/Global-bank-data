@@ -1,0 +1,27 @@
+[
+    {
+        "bank_name": "National Bank of Vanuatu",
+        "swift_code": "VANUVUVU",
+        "country_code": "VU"
+    },
+    {
+        "bank_name": "Bank of South Pacific (BSP)",
+        "swift_code": "BSPPVUVU",
+        "country_code": "VU"
+    },
+    {
+        "bank_name": "Westpac Banking Corporation",
+        "swift_code": "WPACVUVU",
+        "country_code": "VU"
+    },
+    {
+        "bank_name": "ANZ Vanuatu",
+        "swift_code": "ANZBVUVU",
+        "country_code": "VU"
+    },
+    {
+        "bank_name": "Vanuatu Agricultural Bank",
+        "swift_code": "VAABVUVU",
+        "country_code": "VU"
+    }
+]

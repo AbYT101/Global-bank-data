@@ -1,0 +1,57 @@
+[
+    {
+        "bank_name": "Banque des \u00c9tats de l'Afrique Centrale (BEAC)",
+        "swift_code": "BEACFRPXXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Union Bank of Cameroon (UBC)",
+        "swift_code": "UBCMCMCMXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Cameroun (SGC)",
+        "swift_code": "SGCMCMCMXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Afriland First Bank",
+        "swift_code": "AFRCMCMCXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Ecobank Cameroon",
+        "swift_code": "ECBKCMCMXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "BICEC (Banque Internationale du Cameroun pour l\u2019\u00c9pargne et le Cr\u00e9dit)",
+        "swift_code": "BICECMCMXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Caisse d'Epargne et de Pr\u00e9voyance du Cameroun (CEPC)",
+        "swift_code": "CEPCCMCMXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Afriland First Bank",
+        "swift_code": "AFRCMCMCXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Banque de l\u2019Habitat du Cameroun (BHC)",
+        "swift_code": "HABCMCMCXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Bank of Africa \u2013 Cameroon",
+        "swift_code": "BANCMMCMXXX",
+        "country_code": "CM"
+    },
+    {
+        "bank_name": "Network International",
+        "swift_code": "NITACMCXXXX",
+        "country_code": "CM"
+    }
+]

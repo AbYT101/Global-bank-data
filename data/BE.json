@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Belgian National Bank",
+        "swift_code": "BNAGBEBB",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "KBC Bank",
+        "swift_code": "KREDBEBB",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "ING Belgium",
+        "swift_code": "BBRUBEBB",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "Belfius Bank",
+        "swift_code": "BEBABEBB",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "BNP Paribas Fortis",
+        "swift_code": "GENO BEBB",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "Argenta",
+        "swift_code": "ARGEBEBB",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "Crelan",
+        "swift_code": "CRELBEBA",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "Dexia Bank Belgium",
+        "swift_code": "DABABE2D",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "Volksbank",
+        "swift_code": "VOBABE22",
+        "country_code": "BE"
+    },
+    {
+        "bank_name": "Bank of New York Mellon (Belgium)",
+        "swift_code": "BKTRBEBB",
+        "country_code": "BE"
+    }
+]

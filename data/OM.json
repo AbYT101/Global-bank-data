@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Central Bank of Oman",
+        "swift_code": "CBOOMOMX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Bank Muscat",
+        "swift_code": "BMUSOMRX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Oman Arab Bank",
+        "swift_code": "OABDOMRX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "National Bank of Oman",
+        "swift_code": "NBOAOMRX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Dhofar Bank",
+        "swift_code": "DHOFOMRX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Bank Dhofar",
+        "swift_code": "BKDHOOMX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Muscat Bank",
+        "swift_code": "MSCCOMRX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Sohar International Bank",
+        "swift_code": "SIBMOMRX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Oman Investment and Finance Co. SAOG",
+        "swift_code": "OIOMOMRX",
+        "country_code": "OM"
+    },
+    {
+        "bank_name": "Bank of Beirut and the Arab Countries",
+        "swift_code": "BBACOMRX",
+        "country_code": "OM"
+    }
+]

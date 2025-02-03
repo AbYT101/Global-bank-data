@@ -1,0 +1,47 @@
+[
+    {
+        "bank_name": "Banco de Guatemala",
+        "swift_code": "G AUTO G T",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Banco Industrial",
+        "swift_code": "BINDGTC",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Banco de Am\u00e9rica Central",
+        "swift_code": "BACLGTGC",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Banco G&T Continental",
+        "swift_code": "GTYTGTGT",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Credomatic",
+        "swift_code": "CREMGTCA",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Banco Promerica",
+        "swift_code": "PROLGTGC",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Banco Nacional de Guatemala",
+        "swift_code": "BANAGTGT",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Banco del Pa\u00eds",
+        "swift_code": "BAPIGTGC",
+        "country_code": "GT"
+    },
+    {
+        "bank_name": "Electro Finance",
+        "swift_code": "EFCIGTGT",
+        "country_code": "GT"
+    }
+]

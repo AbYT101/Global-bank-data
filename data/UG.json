@@ -1,0 +1,67 @@
+[
+    {
+        "bank_name": "Bank of Uganda",
+        "swift_code": "BOPUUGKA",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Stanbic Bank Uganda Limited",
+        "swift_code": "SBICUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Capital Bank Limited",
+        "swift_code": "CAPAUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "DFCU Bank",
+        "swift_code": "DFCUUGKA",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Equity Bank Uganda Limited",
+        "swift_code": "EQUBUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Stanbic Bank Uganda Ltd.",
+        "swift_code": "SBICUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "United Bank for Africa Uganda",
+        "swift_code": "UBAUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "PostBank Uganda",
+        "swift_code": "PBUAUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Orient Bank",
+        "swift_code": "OIBUUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Crane Bank Limited",
+        "swift_code": "CRANUGKA",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Absa Bank Uganda",
+        "swift_code": "BARCUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "KCB Bank Uganda",
+        "swift_code": "KCBLUGKX",
+        "country_code": "UG"
+    },
+    {
+        "bank_name": "Finance Trust Bank",
+        "swift_code": "FTBUUGKA",
+        "country_code": "UG"
+    }
+]

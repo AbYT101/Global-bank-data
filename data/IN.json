@@ -1,0 +1,97 @@
+[
+    {
+        "bank_name": "State Bank of India",
+        "swift_code": "SBININBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Punjab National Bank",
+        "swift_code": "PNBMINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "HDFC Bank",
+        "swift_code": "HDFCINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "ICICI Bank",
+        "swift_code": "ICICINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Axis Bank",
+        "swift_code": "AXISINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Kotak Mahindra Bank",
+        "swift_code": "KKBKINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Bank of Baroda",
+        "swift_code": "BARBINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Indian Bank",
+        "swift_code": "IDIBINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Canara Bank",
+        "swift_code": "CNRBINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Union Bank of India",
+        "swift_code": "UBININBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Central Bank of India",
+        "swift_code": "CBININBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Bank of India",
+        "swift_code": "BKIDINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "UCO Bank",
+        "swift_code": "UCBAINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Indian Overseas Bank",
+        "swift_code": "IOBAINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "IDBI Bank",
+        "swift_code": "IBKLINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Bank of Maharashtra",
+        "swift_code": "MAHBINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "South Indian Bank",
+        "swift_code": "SIBLINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Dena Bank",
+        "swift_code": "BKDNINBB",
+        "country_code": "IN"
+    },
+    {
+        "bank_name": "Syndicate Bank",
+        "swift_code": "SYNBINBB",
+        "country_code": "IN"
+    }
+]

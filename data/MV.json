@@ -1,0 +1,37 @@
+[
+    {
+        "bank_name": "Maldives Monetary Authority",
+        "swift_code": "MVBAAAML",
+        "country_code": "MV"
+    },
+    {
+        "bank_name": "Bank of Maldives",
+        "swift_code": "BMLIMVMD",
+        "country_code": "MV"
+    },
+    {
+        "bank_name": "Maldives Islamic Bank",
+        "swift_code": "MSBIMVMD",
+        "country_code": "MV"
+    },
+    {
+        "bank_name": "Habib Bank Limited",
+        "swift_code": "HABBPKKA",
+        "country_code": "MV"
+    },
+    {
+        "bank_name": "Faysal Islamic Bank",
+        "swift_code": "FIBLUS44",
+        "country_code": "MV"
+    },
+    {
+        "bank_name": "State Bank of India",
+        "swift_code": "SBININBB",
+        "country_code": "MV"
+    },
+    {
+        "bank_name": "Dhivehi Raajjeyge Gulhun",
+        "swift_code": "N/A",
+        "country_code": "MV"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Bank of Indonesia",
+        "swift_code": "BINAINA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Bank Mandiri",
+        "swift_code": "BMRIIDJA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Bank Rakyat Indonesia",
+        "swift_code": "BRINIDJA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Bank Central Asia",
+        "swift_code": "CENAIDJA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Bank Negara Indonesia",
+        "swift_code": "BNIUIDJA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Bank Danamon",
+        "swift_code": "BDINIDJA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "OCBC NISP",
+        "swift_code": "NISPIDJA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Bank CIMB Niaga",
+        "swift_code": "BNIAIDJA",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Maybank Indonesia",
+        "swift_code": "MBBEIDJAXXX",
+        "country_code": "ID"
+    },
+    {
+        "bank_name": "Perbankan Syariah",
+        "swift_code": "PIDAINA",
+        "country_code": "ID"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "bank_name": "Bank of South Sudan",
+        "swift_code": "BOSSUS44",
+        "country_code": "SS"
+    },
+    {
+        "bank_name": "Commercial Bank of South Sudan",
+        "swift_code": "COSSUS44",
+        "country_code": "SS"
+    },
+    {
+        "bank_name": "Equatorial Bank",
+        "swift_code": "EQUAUS44",
+        "country_code": "SS"
+    },
+    {
+        "bank_name": "I&M Bank South Sudan",
+        "swift_code": "IMBNSS44",
+        "country_code": "SS"
+    },
+    {
+        "bank_name": "KCB Bank South Sudan",
+        "swift_code": "KCBKSS44",
+        "country_code": "SS"
+    },
+    {
+        "bank_name": "Nile Commercial Bank",
+        "swift_code": "NILCSS44",
+        "country_code": "SS"
+    },
+    {
+        "bank_name": "South Sudan Commercial Bank",
+        "swift_code": "SSCBUS44",
+        "country_code": "SS"
+    },
+    {
+        "bank_name": "Unity Bank South Sudan",
+        "swift_code": "UBSSSS44",
+        "country_code": "SS"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "bank_name": "Banco Central del Uruguay",
+        "swift_code": "BCUURUYG",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco de la Rep\u00fablica Oriental del Uruguay",
+        "swift_code": "BROUUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco Santander (Uruguay)",
+        "swift_code": "SABRUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco Ita\u00fa Uruguay",
+        "swift_code": "ITAUUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Scotiabank Uruguay",
+        "swift_code": "NOSCUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco BBVA Uruguay",
+        "swift_code": "BBVAUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco de Cr\u00e9dito del Uruguay",
+        "swift_code": "BCUURUYG",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco Pichincha (Uruguay)",
+        "swift_code": "PICUUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco Rep\u00fablica de Bolivia (Sucursal en Uruguay)",
+        "swift_code": "BRBOUTMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco Ita\u00fa (Sucursal en Uruguay)",
+        "swift_code": "ITAUUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco Agrario del Uruguay",
+        "swift_code": "BAUCUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "Banco de la Naci\u00f3n Argentina (Sucursal en Uruguay)",
+        "swift_code": "BNAEUYMM",
+        "country_code": "UY"
+    },
+    {
+        "bank_name": "HSBC Bank (Uruguay)",
+        "swift_code": "HSBCUYMM",
+        "country_code": "UY"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "bank_name": "Banco Central de Venezuela",
+        "swift_code": "BCVAVEBB",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banco de Venezuela",
+        "swift_code": "BVEZVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banco del Tesoro",
+        "swift_code": "BTESVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Bancaribe",
+        "swift_code": "BCAIVEBB",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Bancamiga",
+        "swift_code": "BAMAVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banco Occidental de Descuento",
+        "swift_code": "BODRVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banco Nacional de Cr\u00e9dito",
+        "swift_code": "BANAVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "BBVA Banco Provincial",
+        "swift_code": "BPVEVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banco Exterior",
+        "swift_code": "BANVEXCA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banco Caron\u00ed",
+        "swift_code": "BANCVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banco de la Fuerza Armada Nacional Bolivariana",
+        "swift_code": "BFAAVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Bancrecer",
+        "swift_code": "BCRIVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Citibank Venezuela",
+        "swift_code": "CITIVECA",
+        "country_code": "VE"
+    },
+    {
+        "bank_name": "Banplus",
+        "swift_code": "BPVEVECA",
+        "country_code": "VE"
+    }
+]

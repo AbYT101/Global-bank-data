@@ -1,0 +1,87 @@
+[
+    {
+        "bank_name": "Intesa Sanpaolo",
+        "swift_code": "PSSTITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "UniCredit",
+        "swift_code": "UNCRITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banco BPM",
+        "swift_code": "BPMOITM1",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca Monte dei Paschi di Siena",
+        "swift_code": "BMPSITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Mediobanca",
+        "swift_code": "MEDIITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "BPER Banca",
+        "swift_code": "BPERITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "UBI Banca",
+        "swift_code": "UBINITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca Nazionale del Lavoro (BNL)",
+        "swift_code": "BNLIITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Credito Emiliano (Credem)",
+        "swift_code": "CREDITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca Carige",
+        "swift_code": "CARIGR22",
+        "country": "IT"
+    },
+    {
+        "bank_name": "FinecoBank",
+        "swift_code": "FINEITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca Popolare di Sondrio",
+        "swift_code": "BPSIITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca IFIS",
+        "swift_code": "BIFIITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca Mediolanum",
+        "swift_code": "MEDLITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca Generali",
+        "swift_code": "GENIITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Credito Valtellinese",
+        "swift_code": "CRVLITMM",
+        "country": "IT"
+    },
+    {
+        "bank_name": "Banca Popolare di Bari",
+        "swift_code": "BPBIITMM",
+        "country": "IT"
+    }
+]

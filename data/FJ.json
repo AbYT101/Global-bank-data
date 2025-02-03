@@ -1,0 +1,47 @@
+[
+    {
+        "bank_name": "Bank of Fiji",
+        "swift_code": "BFIJFJFX",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "Fiji Development Bank",
+        "swift_code": "FDBAFJFX",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "Westpac Banking Corporation",
+        "swift_code": "WPACFJFX",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "ANZ Banking Group",
+        "swift_code": "ANZBFJFX",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "Bank of Baroda",
+        "swift_code": "BAROFJFX",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "BRED Bank Fiji Limited",
+        "swift_code": "BREDFJFX",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "Tropical Finance Limited",
+        "swift_code": "TROPFJFX",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "First Investment Finance Corporation",
+        "swift_code": "",
+        "country_code": "FJ"
+    },
+    {
+        "bank_name": "Fiji National Provident Fund",
+        "swift_code": "",
+        "country_code": "FJ"
+    }
+]

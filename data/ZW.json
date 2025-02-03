@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Reserve Bank of Zimbabwe",
+        "swift_code": "RESBZWLY",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "Standard Chartered Bank Zimbabwe",
+        "swift_code": "SCBLZWHX",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "Ecobank Zimbabwe",
+        "swift_code": "ECOCZWHA",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "CBZ Holdings",
+        "swift_code": "CBZWZWHX",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "Nedbank Zimbabwe",
+        "swift_code": "NEDBZWHA",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "Agribank",
+        "swift_code": "AGRBZWHA",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "ZB Bank Limited",
+        "swift_code": "ZBLMZWHA",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "First Capital Bank",
+        "swift_code": "FICBZWHA",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "FBC Bank",
+        "swift_code": "FBCHZWHA",
+        "country_code": "ZW"
+    },
+    {
+        "bank_name": "Trust Bank",
+        "swift_code": "TRSTZWHA",
+        "country_code": "ZW"
+    }
+]

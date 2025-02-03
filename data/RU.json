@@ -1,0 +1,67 @@
+[
+    {
+        "bank_name": "Central Bank of the Russian Federation",
+        "swift_code": "CBRF RU MM",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Sberbank",
+        "swift_code": "SABRRU22",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "VTB Bank",
+        "swift_code": "VTBRRUHX",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Gazprombank",
+        "swift_code": "GAZPRU22",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Bank of Moscow",
+        "swift_code": "MOSCRUMM",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Alfa-Bank",
+        "swift_code": "ALFARUMM",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Rosbank",
+        "swift_code": "ROSBRU22",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Promsvyazbank",
+        "swift_code": "PSBRRU22",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Russian Agricultural Bank",
+        "swift_code": "RSHBRUMM",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "UniCredit Bank",
+        "swift_code": "OCBCRUMM",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Tinkoff Bank",
+        "swift_code": "TINKRU21",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "B&N Bank",
+        "swift_code": "RUSSRUMM",
+        "country_code": "RU"
+    },
+    {
+        "bank_name": "Russian National Commercial Bank",
+        "swift_code": "RNCBRUMM",
+        "country_code": "RU"
+    }
+]

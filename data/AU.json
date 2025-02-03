@@ -1,0 +1,72 @@
+[
+    {
+        "bank_name": "Commonwealth Bank of Australia",
+        "swift_code": "CTBAAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Westpac Banking Corporation",
+        "swift_code": "WPACAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Australia and New Zealand Banking Group",
+        "swift_code": "ANZBAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "National Australia Bank",
+        "swift_code": "NATAAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Macquarie Bank",
+        "swift_code": "MACQAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Bank of Queensland",
+        "swift_code": "BOQAAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Bendigo and Adelaide Bank",
+        "swift_code": "BENDAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Suncorp Bank",
+        "swift_code": "SUNCAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "AMP Bank",
+        "swift_code": "AMPBAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "UBank",
+        "swift_code": "UBKCAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Bank Australia",
+        "swift_code": "BKAUAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "BankSA",
+        "swift_code": "BSAUAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "BankVic",
+        "swift_code": "BVICAU2SXXX",
+        "country": "AU"
+    },
+    {
+        "bank_name": "Challenger Bank",
+        "swift_code": "CHALLAU2SXXX",
+        "country": "AU"
+    }
+]

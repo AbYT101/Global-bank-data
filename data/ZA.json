@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Absa Bank Limited",
+        "swift_code": "ABSAZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "Capitec Bank Limited",
+        "swift_code": "CAPIZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "FNB (First National Bank)",
+        "swift_code": "FirnZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "Nedbank Limited",
+        "swift_code": "NEDSZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "Standard Bank of South Africa",
+        "swift_code": "SBZAZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "South African Reserve Bank",
+        "swift_code": "SARBZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "Investec Bank Limited",
+        "swift_code": "INVZZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "African Bank Limited",
+        "swift_code": "AFSZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "Mercantile Bank Limited",
+        "swift_code": "MBCOZAJJ",
+        "country_code": "ZA"
+    },
+    {
+        "bank_name": "Bidvest Bank Limited",
+        "swift_code": "BIDVZAJJ",
+        "country_code": "ZA"
+    }
+]

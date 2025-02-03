@@ -1,0 +1,142 @@
+[
+    {
+        "bank_name": "Agrani Bank Limited",
+        "swift_code": "AGRNBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Bangladesh Bank",
+        "swift_code": "BDBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Bangladesh Commerce Bank Limited",
+        "swift_code": "BCBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Bangladesh Development Bank Limited",
+        "swift_code": "BDBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "BRAC Bank Limited",
+        "swift_code": "BRACBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "City Bank Limited",
+        "swift_code": "CITYBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Dhaka Bank Limited",
+        "swift_code": "DHAKBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Dutch-Bangla Bank Limited",
+        "swift_code": "DBBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Eastern Bank Limited",
+        "swift_code": "EASTBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Exim Bank Limited",
+        "swift_code": "EXIMBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Global Bank Limited",
+        "swift_code": "GBBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Jamuna Bank Limited",
+        "swift_code": "JBLKBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Mercantile Bank Limited",
+        "swift_code": "MBLBBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "mutual trust Bank Limited",
+        "swift_code": "MTBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "National Bank Limited",
+        "swift_code": "NBLDBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "One Bank Limited",
+        "swift_code": "ONBKBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Pubali Bank Limited",
+        "swift_code": "PUBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Rajshahi Agricultural Development Bank",
+        "swift_code": null,
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Rupali Bank Limited",
+        "swift_code": "RUBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Shahjalal Islami Bank Limited",
+        "swift_code": "SJIBBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Shinhan Bank",
+        "swift_code": "SHBKBKDD",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Southeast Bank Limited",
+        "swift_code": "SEBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Standard Bank Limited",
+        "swift_code": "STBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Trust Bank Limited",
+        "swift_code": "TRBKBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Union Bank Limited",
+        "swift_code": "UBLDBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Uttara Bank Limited",
+        "swift_code": "UTBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Islami Bank Bangladesh Limited",
+        "swift_code": "IBBLBDDH",
+        "country_code": "BD"
+    },
+    {
+        "bank_name": "Bangladesh Krishi Bank",
+        "swift_code": null,
+        "country_code": "BD"
+    }
+]

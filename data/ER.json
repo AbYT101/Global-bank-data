@@ -1,0 +1,17 @@
+[
+    {
+        "bank_name": "Central Bank of Eritrea",
+        "swift_code": "CBBEERASMIS",
+        "country_code": "ER"
+    },
+    {
+        "bank_name": "Commercial Bank of Eritrea",
+        "swift_code": "CBERERER",
+        "country_code": "ER"
+    },
+    {
+        "bank_name": "Eritrean National Bank",
+        "swift_code": "ENBERER",
+        "country_code": "ER"
+    }
+]

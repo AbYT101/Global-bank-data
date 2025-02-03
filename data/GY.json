@@ -1,0 +1,42 @@
+[
+    {
+        "bank_name": "Bank of Guyana",
+        "swift_code": "BGUYGYGX",
+        "country_code": "GY"
+    },
+    {
+        "bank_name": "Guyana Bank for Trade and Industry",
+        "swift_code": "GBTI GY GX",
+        "country_code": "GY"
+    },
+    {
+        "bank_name": "Republic Bank (Guyana) Limited",
+        "swift_code": "RBGYGYGX",
+        "country_code": "GY"
+    },
+    {
+        "bank_name": "Guyana National Cooperative Bank",
+        "swift_code": "GNCB GY GX",
+        "country_code": "GY"
+    },
+    {
+        "bank_name": "Scotiabank Guyana",
+        "swift_code": "SYGYGYGX",
+        "country_code": "GY"
+    },
+    {
+        "bank_name": "Demerara Bank Limited",
+        "swift_code": "DBGYGYGX",
+        "country_code": "GY"
+    },
+    {
+        "bank_name": "Citizens Bank Guyana Inc.",
+        "swift_code": "CBYG Y GX",
+        "country_code": "GY"
+    },
+    {
+        "bank_name": "First Citizens Bank (Guyana) Limited",
+        "swift_code": "FCBG Y G GX",
+        "country_code": "GY"
+    }
+]

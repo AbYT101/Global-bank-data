@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Central Bank of Afghanistan",
+        "swift_code": "KABLAFAF",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "Afghanistan International Bank",
+        "swift_code": "AIBKAFKX",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "Kabul Bank",
+        "swift_code": "KABUAFKX",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "Azizi Bank",
+        "swift_code": "AZBKAFKX",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "Habib Bank Limited",
+        "swift_code": "HABBPKKA",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "Bank-E-Millie Afghan",
+        "swift_code": "BEMIAFAF",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "Pashtany Bank",
+        "swift_code": "PSTNBAFA",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "First MicroFinance Bank Afghanistan",
+        "swift_code": "FMBAAFKX",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "Mutahid Daman Bank",
+        "swift_code": "MDBKAFKX",
+        "country_code": "AF"
+    },
+    {
+        "bank_name": "DAB",
+        "swift_code": "DABBAFAF",
+        "country_code": "AF"
+    }
+]

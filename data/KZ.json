@@ -1,0 +1,62 @@
+[
+    {
+        "bank_name": "Kazakhstan National Bank",
+        "swift_code": "KZKZKZKZ",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Halyk Bank",
+        "swift_code": "Halyk.kz",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Kazkommertsbank",
+        "swift_code": "KZKOKZKZ",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Sberbank",
+        "swift_code": " SABRKZKX",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Bank of China (Kazakhstan)",
+        "swift_code": "BKCHKZKX",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "ATFBank",
+        "swift_code": "ATFBKZKX",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "CenterCredit Bank",
+        "swift_code": "CCBKZKZK",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Eurasian Bank",
+        "swift_code": "EWBKKZKX",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Tsesna Bank",
+        "swift_code": "TSBKKZKX",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Forte Bank",
+        "swift_code": "FORKKZKX",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Nurbank",
+        "swift_code": "NURBKZKX",
+        "country_code": "KZ"
+    },
+    {
+        "bank_name": "Kazakhstan Development Bank",
+        "swift_code": "KZDBKZKX",
+        "country_code": "KZ"
+    }
+]

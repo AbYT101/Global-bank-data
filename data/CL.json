@@ -1,0 +1,67 @@
+[
+    {
+        "bank_name": "Banco de Chile",
+        "swift_code": "BANCCLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Banco Santander Chile",
+        "swift_code": "BSCHCLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Banco del Estado de Chile",
+        "swift_code": "BECACLMM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "BICE Corp.",
+        "swift_code": "BICECLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "BBVA Chile",
+        "swift_code": "BBVACLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Scotiabank Chile",
+        "swift_code": "SCOTCLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Banco Ita\u00fa Corpbanca",
+        "swift_code": "ITAUCLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Coopeuch",
+        "swift_code": "COOACLMM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "BancoEstado Microempresas",
+        "swift_code": "BECMCLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Banco BICE",
+        "swift_code": "BICECLRM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Banco Falabella",
+        "swift_code": "FALACLMM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Banco Security",
+        "swift_code": "SECACLMM",
+        "country_code": "CL"
+    },
+    {
+        "bank_name": "Banco Penta",
+        "swift_code": "PENTCLRM",
+        "country_code": "CL"
+    }
+]

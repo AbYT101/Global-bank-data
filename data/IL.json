@@ -1,0 +1,87 @@
+[
+    {
+        "bank_name": "Bank Hapoalim B.M.",
+        "swift_code": "POALILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Bank Leumi Le Israel B.M.",
+        "swift_code": "LUMIILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Israel Discount Bank Ltd.",
+        "swift_code": "IDBLILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Mizrahi Tefahot Bank Ltd.",
+        "swift_code": "MIZBILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "First International Bank of Israel Ltd.",
+        "swift_code": "FIRBILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Union Bank of Israel Ltd.",
+        "swift_code": "UNBKILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Mercantile Discount Bank Ltd.",
+        "swift_code": "BARDILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Bank Massad Ltd.",
+        "swift_code": "MASBILI1XXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Bank of Jerusalem Ltd.",
+        "swift_code": "JERSILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Bank Otsar Ha-Hayal Ltd.",
+        "swift_code": "OTSHILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Bank Poaley Agudat Israel Ltd.",
+        "swift_code": "PAGIILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Israel Postal Bank",
+        "swift_code": "IPOAILIJXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "UBank Ltd.",
+        "swift_code": "IGBTILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "HSBC Bank PLC (Israel)",
+        "swift_code": "HSBCILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Citibank N.A. (Israel)",
+        "swift_code": "CITIILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Dexia Israel Bank Ltd.",
+        "swift_code": "OTHHILITXXX",
+        "country": "IL"
+    },
+    {
+        "bank_name": "Bank Yahav for Government Employees Ltd.",
+        "swift_code": "BYAHILI1XXX",
+        "country": "IL"
+    }
+]

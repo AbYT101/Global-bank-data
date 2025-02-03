@@ -1,0 +1,57 @@
+[
+    {
+        "bank_name": "Qatar National Bank",
+        "swift_code": "QNBSQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Doha Bank",
+        "swift_code": "DBQAQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Commercial Bank of Qatar",
+        "swift_code": "CBQWQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Qatar Islamic Bank",
+        "swift_code": "QIBLQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Al Khalij Commercial Bank",
+        "swift_code": "ALBQQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Masraf Al Rayan",
+        "swift_code": "MARBQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Qatar Development Bank",
+        "swift_code": "QDBLQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "International Bank of Qatar",
+        "swift_code": "IBQAQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Barwa Bank",
+        "swift_code": "BRWQAQAQ",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Al Ahli Bank of Kuwait (Qatar)",
+        "swift_code": "ABKQQAQA",
+        "country_code": "QA"
+    },
+    {
+        "bank_name": "Lebanon & Gulf Bank",
+        "swift_code": "LGBLQAQA",
+        "country_code": "QA"
+    }
+]

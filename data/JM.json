@@ -1,0 +1,57 @@
+[
+    {
+        "bank_name": "Bank of Jamaica",
+        "swift_code": "BOJAMKJA",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "National Commercial Bank Jamaica Limited",
+        "swift_code": "NCBJKMJX",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "Scotiabank Jamaica",
+        "swift_code": "NOSCJMKX",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "JMMB Bank",
+        "swift_code": "JMBJMJKX",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "First Caribbean International Bank Jamaica Limited",
+        "swift_code": "FCIBJMJA",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "Bank of Nova Scotia Jamaica",
+        "swift_code": "BNSCJMKX",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "Minister of Finance and Planning",
+        "swift_code": "MOFPMKJA",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "CIBC FirstCaribbean International Bank",
+        "swift_code": "CIBCJMKX",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "Industry and Commerce Bank",
+        "swift_code": "ICBJMKJA",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "Sagicor Bank Jamaica Limited",
+        "swift_code": "SGBLJMJA",
+        "country_code": "JM"
+    },
+    {
+        "bank_name": "Credit Union of Jamaica",
+        "swift_code": "CUJAMKJA",
+        "country_code": "JM"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "bank_name": "Bangkok Bank Public Company Limited",
+        "swift_code": "BKKBTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Kasikornbank Public Company Limited",
+        "swift_code": "KASITHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Siam Commercial Bank Public Company Limited",
+        "swift_code": "SICOTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Krung Thai Bank Public Company Limited",
+        "swift_code": "KRTHTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Thai Military Bank Public Company Limited",
+        "swift_code": "TIMTTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Government Savings Bank",
+        "swift_code": "GOSBTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "TMBThanachart Bank Public Company Limited",
+        "swift_code": "TMBKTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Bangkok Dusit Medical Services Public Company Limited",
+        "swift_code": "BDMSTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Bank of Ayudhya Public Company Limited",
+        "swift_code": "AYUDTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Standard Chartered Bank (Thailand) Limited",
+        "swift_code": "SCBLTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "CIMB Thai Bank Public Company Limited",
+        "swift_code": "CIMBTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "United Overseas Bank (Thai) Public Company Limited",
+        "swift_code": "UOVBTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Kiatnakin Phatra Financial Group",
+        "swift_code": "KKPBTHBK",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Siam Commercial Bank Plc (Hong Kong Branch)",
+        "swift_code": "SICLHKHX",
+        "country_code": "TH"
+    },
+    {
+        "bank_name": "Deutsche Bank AG Bangkok Branch",
+        "swift_code": "DEUTTHBXXX",
+        "country_code": "TH"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "bank_name": "UBS Group AG",
+        "swift_code": "UBSWCHZH",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Credit Suisse Group AG",
+        "swift_code": "CRESCHZZ80A",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "JPMorgan Chase Bank, N.A.",
+        "swift_code": "CHASCHZZ",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Z\u00fcrcher Kantonalbank",
+        "swift_code": "ZKBKCHZZ",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Raiffeisen Group",
+        "swift_code": "RAIFCH22",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Banque Cantonale Vaudoise",
+        "swift_code": "BCVLCH2L",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Leonteq Securities AG",
+        "swift_code": "LEONCHZZ",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Pictet Group",
+        "swift_code": "PCTECHGG",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Lombard Odier Group",
+        "swift_code": "LOMGCH2L",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Swiss National Bank",
+        "swift_code": "SNBACHZZ",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "PostFinance AG",
+        "swift_code": "POFICHBEXXX",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Sygnum Bank AG",
+        "swift_code": "SYGNCHZZ",
+        "country_code": "CH"
+    },
+    {
+        "bank_name": "Bitcoin Suisse AG",
+        "swift_code": "BTSUCHZZ",
+        "country_code": "CH"
+    }
+]

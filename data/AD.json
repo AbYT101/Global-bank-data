@@ -1,0 +1,67 @@
+[
+    {
+        "bank_name": "Central Bank of the UAE",
+        "swift_code": "CBUAAEAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Abu Dhabi Commercial Bank",
+        "swift_code": "ADCBAEAA",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "First Abu Dhabi Bank",
+        "swift_code": "FABUAEAAXXX",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Emirates NBD",
+        "swift_code": "EBILAEAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Abu Dhabi Islamic Bank",
+        "swift_code": "ADBIAEAAXXX",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Union National Bank",
+        "swift_code": "UNBKAEAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "RAK Bank",
+        "swift_code": "RAKBAEAAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "UAE Exchange and Financial Services",
+        "swift_code": "UAEBAEAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Sharjah Islamic Bank",
+        "swift_code": "SHBIAEAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Dubai Islamic Bank",
+        "swift_code": "DIBAAEAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Al Hilal Bank",
+        "swift_code": "HILBAEAAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "National Bank of Fujairah",
+        "swift_code": "NBFUAEAD",
+        "country_code": "AE"
+    },
+    {
+        "bank_name": "Abu Dhabi Investment Authority",
+        "swift_code": "ADIBAEAD",
+        "country_code": "AE"
+    }
+]

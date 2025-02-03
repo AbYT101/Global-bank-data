@@ -1,0 +1,82 @@
+[
+    {
+        "bank_name": "State Bank of Pakistan",
+        "swift_code": "SBPKPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Habib Bank Limited",
+        "swift_code": "HABBPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "National Bank of Pakistan",
+        "swift_code": "NBPAPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "United Bank Limited",
+        "swift_code": "UBLIPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Bank Alfalah Limited",
+        "swift_code": "BAFLPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Standard Chartered Bank (Pakistan) Limited",
+        "swift_code": "SCBLPKKX",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Faysal Bank Limited",
+        "swift_code": "FAYLPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "MCB Bank Limited",
+        "swift_code": "MCBLPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Bank Islami Pakistan Limited",
+        "swift_code": "BKIPPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Al Baraka Bank (Pakistan) Limited",
+        "swift_code": "ABPKPKKX",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Bank of Punjab",
+        "swift_code": "BOPUPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Sindh Bank",
+        "swift_code": "SINDPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "First Women Bank Limited",
+        "swift_code": "FWBLPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Zarai Taraqiati Bank Limited",
+        "swift_code": "ZTBLPKKA",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Citibank N.A.",
+        "swift_code": "CITIUS33",
+        "country_code": "PK"
+    },
+    {
+        "bank_name": "Pak Oman Investment Company",
+        "swift_code": "PKOMPKKA",
+        "country_code": "PK"
+    }
+]

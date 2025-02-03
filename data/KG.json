@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "National Bank of Kyrgyzstan",
+        "swift_code": "KIRZKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Aiyl Bank",
+        "swift_code": "AIYLKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Demir Kyrgyz International Bank",
+        "swift_code": "DEMKKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Kyrgyz Investment and Credit Bank",
+        "swift_code": "KICBKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "BTA Bank",
+        "swift_code": "BTAIKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Kompanion Bank",
+        "swift_code": "KOMPKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Baik Klimov Bank",
+        "swift_code": "BKBGKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Optima Bank",
+        "swift_code": "OPTIKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Eurasian Development Bank",
+        "swift_code": "EDBKKG22",
+        "country_code": "KG"
+    },
+    {
+        "bank_name": "Regional Banking Corporation",
+        "swift_code": "REGBKG22",
+        "country_code": "KG"
+    }
+]

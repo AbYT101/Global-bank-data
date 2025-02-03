@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Deutsche Bank",
+        "swift_code": "DEUTDEFF",
+        "country": "DE"
+    },
+    {
+        "bank_name": "Commerzbank",
+        "swift_code": "COBADEFF",
+        "country": "DE"
+    },
+    {
+        "bank_name": "DZ Bank",
+        "swift_code": "GENODEFF",
+        "country": "DE"
+    },
+    {
+        "bank_name": "KfW Bank",
+        "swift_code": "KFWIDEFF",
+        "country": "DE"
+    },
+    {
+        "bank_name": "Landesbank Baden-W\u00fcrttemberg (LBBW)",
+        "swift_code": "LBBWDEFF",
+        "country": "DE"
+    },
+    {
+        "bank_name": "Bayerische Landesbank (BayernLB)",
+        "swift_code": "BYLADEMM",
+        "country": "DE"
+    },
+    {
+        "bank_name": "Norddeutsche Landesbank (Nord/LB)",
+        "swift_code": "NOLADEFF",
+        "country": "DE"
+    },
+    {
+        "bank_name": "HypoVereinsbank",
+        "swift_code": "HYVEDEMM",
+        "country": "DE"
+    },
+    {
+        "bank_name": "Helaba (Landesbank Hessen-Th\u00fcringen)",
+        "swift_code": "HELADEFF",
+        "country": "DE"
+    },
+    {
+        "bank_name": "ING-DiBa",
+        "swift_code": "INGDDEFF",
+        "country": "DE"
+    }
+]

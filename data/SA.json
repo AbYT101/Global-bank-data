@@ -1,0 +1,142 @@
+[
+    {
+        "bank_name": "AL INMA BANK",
+        "swift_code": "INMASARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "AL RAJHI BANK (Head Office)",
+        "swift_code": "RJHISARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "ARAB NATIONAL BANK (Head Office)",
+        "swift_code": "ARNBSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "ARAB PETROLEM INVESTMENTS CORPORATION",
+        "swift_code": "APICSADMXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BANK AL BILAD (Head Office / Trade Finance Center)",
+        "swift_code": "ALBISARITFC",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BANK AL BILAD (Head Office)",
+        "swift_code": "ALBISARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BANK AL-JAZIRA (Head Office)",
+        "swift_code": "BJAZSAJE002",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BANKMUSCAT (Head Office)",
+        "swift_code": "BMUSSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BANQUE SAUDI FRANSI (Head Office)",
+        "swift_code": "BSFRSARIGEM",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BANQUE SAUDI FRANSI (General \u2013 Central Region)",
+        "swift_code": "BSFRSARIRYD",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BANQUE SAUDI FRANSI (General)",
+        "swift_code": "BSFRSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "BNP PARIBAS SAUDI ARABIA",
+        "swift_code": "BNPASARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "DEUTSCHE BANK AG, RIYADH (Head Office)",
+        "swift_code": "DEUTSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "EMIRATES BANK INTERNATIONAL PJSC (Head Office)",
+        "swift_code": "EBILSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "GULF INTERNATIONAL BANK B.S.C.",
+        "swift_code": "GULFSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "ISLAMIC DEVELOPMENT BANK (Head Office)",
+        "swift_code": "ISLDSAJEXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "NATIONAL COMMERCIAL BANK, THE (Head Office)",
+        "swift_code": "NCBKSAJEXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAMBA FINANCIAL GROUP (Head Office)",
+        "swift_code": "SAMBSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI ARABIAN MONETARY AGENCY",
+        "swift_code": "SAMASARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI ARAMCO",
+        "swift_code": "ARAMSADHXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI BRITISH BANK, THE (Head Office)",
+        "swift_code": "SABBSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI HOLLANDI BANK (Head Office \u2013 Riyadh Central Area)",
+        "swift_code": "AAALSARIRYD",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI HOLLANDI BANK (Head Office \u2013 Treasury)",
+        "swift_code": "AAALSARICTD",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI HOLLANDI BANK (General \u2013 Head Office)",
+        "swift_code": "AAALSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI HOLLANDI CAPITAL",
+        "swift_code": "SAHCSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SAUDI INVESTMENT BANK, THE",
+        "swift_code": "SIBCSARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "SHUAA CAPITAL SAUDI ARABIA",
+        "swift_code": "SHUASARIXXX",
+        "country": "SA"
+    },
+    {
+        "bank_name": "THE SAUDI FUND FOR DEVELOPMENT",
+        "swift_code": "SFFDSARIXXX",
+        "country": "SA"
+    }
+]

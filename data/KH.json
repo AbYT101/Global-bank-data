@@ -1,0 +1,57 @@
+[
+    {
+        "bank_name": "National Bank of Cambodia",
+        "swift_code": "NBCBKHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "ACLEDA Bank",
+        "swift_code": "ACLKHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Canadia Bank",
+        "swift_code": "CANA KHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Phnom Penh Commercial Bank",
+        "swift_code": "PPCBKHKH",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Campu Bank",
+        "swift_code": "CAMPKHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Vattanac Bank",
+        "swift_code": "VATNKHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Union Commercial Bank",
+        "swift_code": "UCBKHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Foreign Trade Bank of Cambodia",
+        "swift_code": "FTBKHKPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Sathapana Bank",
+        "swift_code": "SATHKHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "ABA Bank",
+        "swift_code": "ABACKHPP",
+        "country_code": "KH"
+    },
+    {
+        "bank_name": "Nikaya Bank",
+        "swift_code": "NIKAKHPP",
+        "country_code": "KH"
+    }
+]

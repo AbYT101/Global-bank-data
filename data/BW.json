@@ -1,0 +1,47 @@
+[
+    {
+        "bank_name": "Bank of Botswana",
+        "swift_code": "BSCZBWBB",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "Absa Bank Botswana",
+        "swift_code": "ABSABWGX",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "FNB Botswana",
+        "swift_code": "FNBMBWXM",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "Standard Bank Botswana",
+        "swift_code": "SBZMBWGX",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "Nedbank Botswana",
+        "swift_code": "NEDSBWXB",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "Bank Gaborone",
+        "swift_code": "BGWNBWXX",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "Fintech Bank",
+        "swift_code": "FNBMBWXX",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "Botswana Cooperative Bank",
+        "swift_code": "",
+        "country_code": "BW"
+    },
+    {
+        "bank_name": "Access Bank Botswana",
+        "swift_code": "ACCESSBW",
+        "country_code": "BW"
+    }
+]

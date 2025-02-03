@@ -1,0 +1,37 @@
+[
+    {
+        "bank_name": "Bank of Georgia",
+        "swift_code": "BGEUGE22",
+        "country_code": "GE"
+    },
+    {
+        "bank_name": "TBC Bank",
+        "swift_code": "TBCBGE22",
+        "country_code": "GE"
+    },
+    {
+        "bank_name": "Liberty Bank",
+        "swift_code": "LIBBGE22",
+        "country_code": "GE"
+    },
+    {
+        "bank_name": "Bank of Asia",
+        "swift_code": "BGNUGB22",
+        "country_code": "GE"
+    },
+    {
+        "bank_name": "Constanta Bank",
+        "swift_code": "CONBGE22",
+        "country_code": "GE"
+    },
+    {
+        "bank_name": "ProCredit Bank",
+        "swift_code": "PCRBGE22",
+        "country_code": "GE"
+    },
+    {
+        "bank_name": "VEB.RF",
+        "swift_code": "VEBRGE22",
+        "country_code": "GE"
+    }
+]

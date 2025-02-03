@@ -1,0 +1,97 @@
+[
+    {
+        "bank_name": "Central Bank of Iran",
+        "swift_code": "CBIIRIFT",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Melli Iran",
+        "swift_code": "BMIIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Sepah",
+        "swift_code": "SEPIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Saderat Iran",
+        "swift_code": "BSIRIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Tejarat",
+        "swift_code": "TEJIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Mellat",
+        "swift_code": "BMIIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Pasargad Bank",
+        "swift_code": "PASGIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Ekhtiari",
+        "swift_code": "EHKIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Shahr Bank",
+        "swift_code": "SHAHIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank of Industry and Mine",
+        "swift_code": "BIMIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Keshavarzi Iran",
+        "swift_code": "KESHIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Iranian Bank of Development",
+        "swift_code": "IBDIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Dey",
+        "swift_code": "DEYIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Pasargad",
+        "swift_code": "PASGIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Qavamin",
+        "swift_code": "QVAIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Hekmat Iranian",
+        "swift_code": "HEKMIIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Sarmayeh",
+        "swift_code": "SARMIRTE",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Bank Arian",
+        "swift_code": "ARIARIIR",
+        "country_code": "IR"
+    },
+    {
+        "bank_name": "Iran Bank",
+        "swift_code": "IRBKMELT",
+        "country_code": "IR"
+    }
+]

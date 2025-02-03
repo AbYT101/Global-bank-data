@@ -1,0 +1,167 @@
+[
+    {
+        "bank_name": "ABAY BANK S.C.",
+        "swift_code": "ABAYETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "ADDIS INTERNATIONAL BANK S.C.",
+        "swift_code": "ABSCETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "AFRICAN UNION",
+        "swift_code": "AFUNETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "AHADU BANK S.C.",
+        "swift_code": "AHUUETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "AMHARA BANK S.C.",
+        "swift_code": "AMHRETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "AWASH BANK S.C.",
+        "swift_code": "AWINETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "BANK OF ABYSSINIA",
+        "swift_code": "ABYSETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "BERHAN BANK SC",
+        "swift_code": "BERHETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "BUNNA INTERNATIONAL BANK S.C.",
+        "swift_code": "BUNAETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "COMMERCIAL BANK OF ETHIOPIA",
+        "swift_code": "CBETETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "COOPERATIVE BANK OF OROMIA S.C.",
+        "swift_code": "CBORETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "DASHEN BANK S.C.",
+        "swift_code": "DASHETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "DEVELOPMENT BANK OF ETHIOPIA",
+        "swift_code": "DEETETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "ENAT BANK S.C.",
+        "swift_code": "ENATETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "GADAA BANK SC",
+        "swift_code": "GDAAETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "GLOBAL BANK ETHIOPIA S.C. (FORMERLY DEBUB GLOBAL BANK S.C)",
+        "swift_code": "DEGAETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "GOH BETOCH BANK S.C.",
+        "swift_code": "GOBTETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "HIBRET BANK SHARE COMPANY",
+        "swift_code": "UNTDETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "HIJRA BANK SHARE COMPANY",
+        "swift_code": "HIJRETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "LION INTERNATIONAL BANK S.C.",
+        "swift_code": "LIBSETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "NATIONAL BANK OF ETHIOPIA",
+        "swift_code": "NBETETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "NIB INTERNATIONAL BANK S.C.",
+        "swift_code": "NIBIETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "OMO BANK SHARE COMPANY",
+        "swift_code": "OSCOETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "OROMIA INTERNATIONAL BANK S.C.",
+        "swift_code": "ORIRETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "RAMMIS BANK SHARE COMPANY",
+        "swift_code": "RMSIETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "RAYS MICRO FINANCE INSTITUTION S.C.",
+        "swift_code": "RMFIETA2",
+        "country": "ET"
+    },
+    {
+        "bank_name": "SHABELLE BANK SHARE COMPANY",
+        "swift_code": "SBEEETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "SIDAMA BANK S.C.",
+        "swift_code": "SDMAETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "SIINQEE BANK S.C.",
+        "swift_code": "SINQETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "TSEHAY BANK S.C.",
+        "swift_code": "TSCPETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "WEGAGEN BANK S.C.",
+        "swift_code": "WEGAETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "ZAMZAM BANK S.C.",
+        "swift_code": "ZAMZETAA",
+        "country": "ET"
+    },
+    {
+        "bank_name": "ZEMEN BANK S.C.",
+        "swift_code": "ZEMEETAA",
+        "country": "ET"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "bank_name": "Banque de l'Afrique de l'Ouest",
+        "swift_code": "BAOWBJ",
+        "country_code": "BJ"
+    },
+    {
+        "bank_name": "Banque Nationale du B\u00e9nin",
+        "swift_code": "BNBJBJ",
+        "country_code": "BJ"
+    },
+    {
+        "bank_name": "Ecobank B\u00e9nin",
+        "swift_code": "ECOCBJ",
+        "country_code": "BJ"
+    },
+    {
+        "bank_name": "B\u00e9nin Coop\u00e9rative",
+        "swift_code": "BECBJBJ",
+        "country_code": "BJ"
+    },
+    {
+        "bank_name": "Bank of Africa \u2013 B\u00e9nin",
+        "swift_code": "BOFABJ",
+        "country_code": "BJ"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale B\u00e9nin",
+        "swift_code": "SGBEBJ",
+        "country_code": "BJ"
+    },
+    {
+        "bank_name": "United Bank for Africa B\u00e9nin",
+        "swift_code": "UBAABJ",
+        "country_code": "BJ"
+    },
+    {
+        "bank_name": "B\u00e9nin Invest",
+        "swift_code": "BIBJ",
+        "country_code": "BJ"
+    }
+]

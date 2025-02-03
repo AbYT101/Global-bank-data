@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Banco de la Naci\u00f3n Argentina",
+        "swift_code": "BNAEARGA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Banjercito",
+        "swift_code": "BANJMXMM",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Banco Nacional de Panam\u00e1",
+        "swift_code": "BANPPA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Global Bank Corporation",
+        "swift_code": "GBMCPA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "BAC Credomatic",
+        "swift_code": "BCECPAPA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Scotiabank (Panama)",
+        "swift_code": "NOSCPAPA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Multibank Inc.",
+        "swift_code": "MBICPA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Banvivienda",
+        "swift_code": "BANVPAPA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Credicorp Bank",
+        "swift_code": "CCBAPAPA",
+        "country_code": "PA"
+    },
+    {
+        "bank_name": "Caja de Ahorros",
+        "swift_code": "CDAOPAPA",
+        "country_code": "PA"
+    }
+]

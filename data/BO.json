@@ -1,0 +1,62 @@
+[
+    {
+        "bank_name": "Banco Nacional de Bolivia",
+        "swift_code": "BNBLBOBN",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco de Cr\u00e9dito de Bolivia",
+        "swift_code": "BCBUBOBX",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco Mercantil Santa Cruz",
+        "swift_code": "BMSCBOBX",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco BISA",
+        "swift_code": "BISABOBX",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco Sol",
+        "swift_code": "BISOLBOL",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco Uni\u00f3n",
+        "swift_code": "BUBUBOBX",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco Nacional de Comercio",
+        "swift_code": "BNRCBOBA",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco Prodem",
+        "swift_code": "PRODBOBX",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco FIE",
+        "swift_code": "BANCOF",
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito Los Andes",
+        "swift_code": null,
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito San Jos\u00e9",
+        "swift_code": null,
+        "country_code": "BO"
+    },
+    {
+        "bank_name": "Banco Ganadero",
+        "swift_code": "BGANBOBX",
+        "country_code": "BO"
+    }
+]

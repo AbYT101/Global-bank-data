@@ -1,0 +1,62 @@
+[
+    {
+        "bank_name": "Banque d'Alg\u00e9rie",
+        "swift_code": "DABADZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Banque Nationale d'Alg\u00e9rie",
+        "swift_code": "BNADDZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Banque Ext\u00e9rieure d'Alg\u00e9rie",
+        "swift_code": "BEADDZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Alg\u00e9rie",
+        "swift_code": "SGAADZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Cr\u00e9dit Populaire d'Alg\u00e9rie",
+        "swift_code": "CPADDZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Banque de D\u00e9veloppement Local",
+        "swift_code": "BDLCDZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Banque de l'Agriculture et du D\u00e9veloppement Rural",
+        "swift_code": "BADR DZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Wafa Bank",
+        "swift_code": "WAFA DZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Algerian Gulf Bank",
+        "swift_code": "AGBMDZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Citibank Algeria",
+        "swift_code": "CITI DZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "Banque Islamique de D\u00e9veloppement",
+        "swift_code": "BIDA DZAL",
+        "country_code": "DZ"
+    },
+    {
+        "bank_name": "El Baraka Bank",
+        "swift_code": "BLKADZAL",
+        "country_code": "DZ"
+    }
+]

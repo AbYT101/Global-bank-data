@@ -1,0 +1,52 @@
+[
+    {
+        "bank_name": "Wells Fargo Bank",
+        "swift_code": "WFBIUS6S",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "Chase Bank",
+        "swift_code": "CHASUS33",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "Bank of America",
+        "swift_code": "BOFAUS3N",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "U.S. Bank",
+        "swift_code": "USBKUS44",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "Arizona Federal Credit Union",
+        "swift_code": "AZFCUS44",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "Desert Financial Credit Union",
+        "swift_code": "DFCUUS44",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "National Bank of Arizona",
+        "swift_code": "NBABUS44",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "Compass Bank (BBVA USA)",
+        "swift_code": "BBVAUS44",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "BMO Harris Bank",
+        "swift_code": "BMohUS44",
+        "country_code": "US"
+    },
+    {
+        "bank_name": "FirstBank",
+        "swift_code": "FBANUS44",
+        "country_code": "US"
+    }
+]
