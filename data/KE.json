@@ -60,11 +60,6 @@
         "country": "KE"
     },
     {
-        "bank_name": "Parliamentary Service Commission",
-        "swift_code": "",
-        "country": "KE"
-    },
-    {
         "bank_name": "Umoja Bank",
         "swift_code": "UMBKKENX",
         "country": "KE"
@@ -72,11 +67,6 @@
     {
         "bank_name": "Equatorial Commercial Bank",
         "swift_code": "EQCBKENX",
-        "country": "KE"
-    },
-    {
-        "bank_name": "Ventures Africa Bank",
-        "swift_code": "",
         "country": "KE"
     },
     {

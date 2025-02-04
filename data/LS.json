@@ -23,10 +23,5 @@
         "bank_name": "AfrAsia Bank Lesotho",
         "swift_code": "AFRLWSZZ",
         "country": "LS"
-    },
-    {
-        "bank_name": "Lesotho Financial Services Authority",
-        "swift_code": "",
-        "country": "LS"
     }
 ]

@@ -63,10 +63,5 @@
         "bank_name": "Amana Bank",
         "swift_code": "AMALLKLX",
         "country": "LK"
-    },
-    {
-        "bank_name": "Sri Lanka Savings Bank",
-        "swift_code": "",
-        "country": "LK"
     }
 ]

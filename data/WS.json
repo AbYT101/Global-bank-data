@@ -18,15 +18,5 @@
         "bank_name": "Bank of the South Pacific",
         "swift_code": "BSPFSWSM",
         "country": "WS"
-    },
-    {
-        "bank_name": "Samoa Primary Industry Credit Union",
-        "swift_code": "",
-        "country": "WS"
-    },
-    {
-        "bank_name": "Samoa National Provident Fund",
-        "swift_code": "",
-        "country": "WS"
     }
 ]

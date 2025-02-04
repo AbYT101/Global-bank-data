@@ -20,18 +20,8 @@
         "country": "PG"
     },
     {
-        "bank_name": "PNG Microfinance Limited",
-        "swift_code": null,
-        "country": "PG"
-    },
-    {
         "bank_name": "Kina Bank",
         "swift_code": "KINAPGPG",
-        "country": "PG"
-    },
-    {
-        "bank_name": "National Development Bank",
-        "swift_code": null,
         "country": "PG"
     }
 ]

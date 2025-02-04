@@ -18,10 +18,5 @@
         "bank_name": "Ceiba Intercontinental Bank",
         "swift_code": "CIBGQGXX",
         "country": "GQ"
-    },
-    {
-        "bank_name": "Equatorial Guinea Microfinance Bank",
-        "swift_code": "",
-        "country": "GQ"
     }
 ]

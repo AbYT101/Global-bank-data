@@ -28,15 +28,5 @@
         "bank_name": "Union Bank of Africa (UBA) Tchad",
         "swift_code": "UBACTDJA",
         "country": "TD"
-    },
-    {
-        "bank_name": "Caisse Nationale de Pr\u00e9voyance Sociale",
-        "swift_code": null,
-        "country": "TD"
-    },
-    {
-        "bank_name": "Banque de l'Habitat du Tchad",
-        "swift_code": null,
-        "country": "TD"
     }
 ]

@@ -30,18 +30,8 @@
         "country": "BZ"
     },
     {
-        "bank_name": "Cayo Credit Union",
-        "swift_code": "",
-        "country": "BZ"
-    },
-    {
         "bank_name": "Belize Central Bank",
         "swift_code": "BCBZBZBZ",
-        "country": "BZ"
-    },
-    {
-        "bank_name": "Credit Union League of Belize",
-        "swift_code": "",
         "country": "BZ"
     }
 ]

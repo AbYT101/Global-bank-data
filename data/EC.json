@@ -30,11 +30,6 @@
         "country": "EC"
     },
     {
-        "bank_name": "Cooperativa de Ahorro y Credito Cacpe Esmeraldas",
-        "swift_code": "",
-        "country": "EC"
-    },
-    {
         "bank_name": "Banco del Pac\u00edfico",
         "swift_code": "BPACECQ",
         "country": "EC"
@@ -52,11 +47,6 @@
     {
         "bank_name": "Banco ProCredit",
         "swift_code": "PROCECQ2",
-        "country": "EC"
-    },
-    {
-        "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito Jhampa",
-        "swift_code": "",
         "country": "EC"
     }
 ]

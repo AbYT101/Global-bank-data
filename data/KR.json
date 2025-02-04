@@ -63,10 +63,5 @@
         "bank_name": "Jeju Bank",
         "swift_code": "JEJUKRSE",
         "country": "KR"
-    },
-    {
-        "bank_name": "Korea Ministry of Strategy and Finance",
-        "swift_code": "",
-        "country": "KR"
     }
 ]

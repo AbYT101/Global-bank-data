@@ -38,10 +38,5 @@
         "bank_name": "Citi Investment Services Ltd",
         "swift_code": "CITIUS33",
         "country": "TT"
-    },
-    {
-        "bank_name": "The Cooperative Bank of Trinidad and Tobago",
-        "swift_code": "",
-        "country": "TT"
     }
 ]

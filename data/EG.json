@@ -63,10 +63,5 @@
         "bank_name": "The Housing and Development Bank",
         "swift_code": "HDBKEGCX",
         "country": "EG"
-    },
-    {
-        "bank_name": "Fawry for Banking Technology and e-Payments",
-        "swift_code": "",
-        "country": "EG"
     }
 ]

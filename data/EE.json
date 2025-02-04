@@ -58,10 +58,5 @@
         "bank_name": "TBB Pank",
         "swift_code": "TBBEEE2X",
         "country": "EE"
-    },
-    {
-        "bank_name": "Pronto Kasutatud Autod AS",
-        "swift_code": "",
-        "country": "EE"
     }
 ]

@@ -30,11 +30,6 @@
         "country": "ZM"
     },
     {
-        "bank_name": "Zambia Cooperative Federation",
-        "swift_code": "",
-        "country": "ZM"
-    },
-    {
         "bank_name": "Nedbank Zambia",
         "swift_code": "NEDLZMXXXX",
         "country": "ZM"

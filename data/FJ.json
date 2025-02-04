@@ -33,15 +33,5 @@
         "bank_name": "Tropical Finance Limited",
         "swift_code": "TROPFJFX",
         "country": "FJ"
-    },
-    {
-        "bank_name": "First Investment Finance Corporation",
-        "swift_code": "",
-        "country": "FJ"
-    },
-    {
-        "bank_name": "Fiji National Provident Fund",
-        "swift_code": "",
-        "country": "FJ"
     }
 ]

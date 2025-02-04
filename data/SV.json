@@ -43,10 +43,5 @@
         "bank_name": "Banco de los Trabajadores",
         "swift_code": "BTTLESV1",
         "country": "SV"
-    },
-    {
-        "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito El Rescate",
-        "swift_code": "",
-        "country": "SV"
     }
 ]

@@ -18,15 +18,5 @@
         "bank_name": "Swaziland Building Society",
         "swift_code": "SBSWZAJJ",
         "country": "SZ"
-    },
-    {
-        "bank_name": "Inhlanyelo General Insurance Company",
-        "swift_code": "",
-        "country": "SZ"
-    },
-    {
-        "bank_name": "Emlanjeni Savings and Credit Cooperative",
-        "swift_code": "",
-        "country": "SZ"
     }
 ]

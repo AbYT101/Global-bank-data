@@ -25,16 +25,6 @@
         "country": "IE"
     },
     {
-        "bank_name": "Credit Union",
-        "swift_code": "",
-        "country": "IE"
-    },
-    {
-        "bank_name": "Central Bank of Ireland",
-        "swift_code": "",
-        "country": "IE"
-    },
-    {
         "bank_name": "Deutsche Bank AG",
         "swift_code": "DEUTIE2D",
         "country": "IE"

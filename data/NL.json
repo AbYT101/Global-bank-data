@@ -53,15 +53,5 @@
         "bank_name": "Qonto",
         "swift_code": "QONTNL2A",
         "country": "NL"
-    },
-    {
-        "bank_name": "Aion Bank",
-        "swift_code": "",
-        "country": "NL"
-    },
-    {
-        "bank_name": "Monese",
-        "swift_code": "",
-        "country": "NL"
     }
 ]

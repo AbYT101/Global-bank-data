@@ -23,10 +23,5 @@
         "bank_name": "Monaco Telecom",
         "swift_code": "MTCEMCMX",
         "country": "MC"
-    },
-    {
-        "bank_name": "Fiduciaire de Monaco",
-        "swift_code": "",
-        "country": "MC"
     }
 ]

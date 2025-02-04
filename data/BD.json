@@ -85,11 +85,6 @@
         "country": "BD"
     },
     {
-        "bank_name": "Rajshahi Agricultural Development Bank",
-        "swift_code": null,
-        "country": "BD"
-    },
-    {
         "bank_name": "Rupali Bank Limited",
         "swift_code": "RUBLBDDH",
         "country": "BD"
@@ -132,11 +127,6 @@
     {
         "bank_name": "Islami Bank Bangladesh Limited",
         "swift_code": "IBBLBDDH",
-        "country": "BD"
-    },
-    {
-        "bank_name": "Bangladesh Krishi Bank",
-        "swift_code": null,
         "country": "BD"
     }
 ]

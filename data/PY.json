@@ -38,20 +38,5 @@
         "bank_name": "Banco GNB Paraguay S.A.",
         "swift_code": "GNBAPYPY",
         "country": "PY"
-    },
-    {
-        "bank_name": "Banco Regional de Desarrollo S.A.",
-        "swift_code": "",
-        "country": "PY"
-    },
-    {
-        "bank_name": "Cooperativa Universitaria Ltda.",
-        "swift_code": "",
-        "country": "PY"
-    },
-    {
-        "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito San Crist\u00f3bal Ltda.",
-        "swift_code": "",
-        "country": "PY"
     }
 ]

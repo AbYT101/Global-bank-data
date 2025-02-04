@@ -43,10 +43,5 @@
         "bank_name": "Al Baraka Bank",
         "swift_code": "ABARKWKW",
         "country": "KW"
-    },
-    {
-        "bank_name": "Kuwait Central Bank",
-        "swift_code": "",
-        "country": "KW"
     }
 ]

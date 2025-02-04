@@ -35,11 +35,6 @@
         "country": "BW"
     },
     {
-        "bank_name": "Botswana Cooperative Bank",
-        "swift_code": "",
-        "country": "BW"
-    },
-    {
         "bank_name": "Access Bank Botswana",
         "swift_code": "ACCESSBW",
         "country": "BW"

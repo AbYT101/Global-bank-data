@@ -20,16 +20,6 @@
         "country": "ML"
     },
     {
-        "bank_name": "Mali Microfinance",
-        "swift_code": "",
-        "country": "ML"
-    },
-    {
-        "bank_name": "La Banque Postale du Mali",
-        "swift_code": "",
-        "country": "ML"
-    },
-    {
         "bank_name": "Banque de l'Habitat du Mali",
         "swift_code": "BHMLMLML",
         "country": "ML"
