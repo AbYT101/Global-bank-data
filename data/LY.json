@@ -2,66 +2,66 @@
     {
         "bank_name": "Central Bank of Libya",
         "swift_code": "CBLYLYLX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Libyan Foreign Bank",
         "swift_code": "LFBLLYLX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Jumhouria Bank",
         "swift_code": "JUMHLYLX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "National Commercial Bank (NCB)",
         "swift_code": "NCOMLYLX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Mediterranean Bank",
         "swift_code": "MEDILLYX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Bank of Libya and the Arab Foreign Trade",
         "swift_code": "BLAFLYLX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Libya Africa Investment Portfolio",
         "swift_code": "LAIPLYLX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Ahlia Bank",
         "swift_code": "AHLIYLYX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Al-Waha Bank",
         "swift_code": "ALWAHA",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Fransabank Libya",
         "swift_code": "FRANSLYX",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Al-Takaful Bank",
         "swift_code": "ALTAKFLY",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Libya Bank",
         "swift_code": "LYBANKLY",
-        "country_code": "LY"
+        "country": "LY"
     },
     {
         "bank_name": "Al-Masraf Bank",
         "swift_code": "ALMASRFC",
-        "country_code": "LY"
+        "country": "LY"
     }
 ]

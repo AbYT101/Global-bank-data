@@ -2,111 +2,111 @@
     {
         "bank_name": "Banco de Oro Universal Bank",
         "swift_code": "BDOAPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Bank of the Philippine Islands",
         "swift_code": "BOPIPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Philippine National Bank",
         "swift_code": "PNBIPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Union Bank of the Philippines",
         "swift_code": "UBPHPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Security Bank Corporation",
         "swift_code": "SECUPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Metropolitan Bank and Trust Company",
         "swift_code": "MBTCPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "China Banking Corporation",
         "swift_code": "CHBKPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "CitiBank N.A. - Philippines",
         "swift_code": "CITIPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "HSBC Philippines",
         "swift_code": "HSBCPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Rizal Commercial Banking Corporation",
         "swift_code": "RCBAPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "EastWest Banking Corporation",
         "swift_code": "EWPHPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Land Bank of the Philippines",
         "swift_code": "LBPMPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Development Bank of the Philippines",
         "swift_code": "DBPMPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Philippine Bank of Communications",
         "swift_code": "PBCMPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "BPI Family Savings Bank",
         "swift_code": "BPIAPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Allied Banking Corporation",
         "swift_code": "ABUIPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "AUB - Asia United Bank",
         "swift_code": "AUBAPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Maybank Philippines, Inc.",
         "swift_code": "MAYBPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Philippine Veterans Bank",
         "swift_code": "PVBKPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "The Manila Bank Corporation",
         "swift_code": "MANLPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "One Network Bank",
         "swift_code": "ONBPPHMM",
-        "country_code": "PH"
+        "country": "PH"
     },
     {
         "bank_name": "Union Bank",
         "swift_code": "UBPHPHMM",
-        "country_code": "PH"
+        "country": "PH"
     }
 ]

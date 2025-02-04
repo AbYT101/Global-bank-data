@@ -2,51 +2,51 @@
     {
         "bank_name": "Allied Irish Banks, p.l.c.",
         "swift_code": "AIBKIE2D",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "Bank of Ireland",
         "swift_code": "BOFIIE2D",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "Ulster Bank Ireland DAC",
         "swift_code": "ULSRIE2D",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "Permanent TSB Group Holdings Plc",
         "swift_code": "PTSBIE2D",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "KBC Bank Ireland",
         "swift_code": "KBCIIE2D",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "Credit Union",
         "swift_code": "",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "Central Bank of Ireland",
         "swift_code": "",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "Deutsche Bank AG",
         "swift_code": "DEUTIE2D",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "HSBC Bank plc",
         "swift_code": "MIDLIE2D",
-        "country_code": "IE"
+        "country": "IE"
     },
     {
         "bank_name": "Citibank Europe plc",
         "swift_code": "CITIIE2X",
-        "country_code": "IE"
+        "country": "IE"
     }
 ]

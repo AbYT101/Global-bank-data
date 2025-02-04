@@ -2,86 +2,86 @@
     {
         "bank_name": "Central Bank of Kenya",
         "swift_code": "BK \u0627\u0644\u0623\u0639\u0645\u0627\u0644",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Equity Bank Kenya",
         "swift_code": "EQBLKenya",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "KCB Bank Kenya",
         "swift_code": "KCBLKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Co-operative Bank of Kenya",
         "swift_code": "KCOCKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Standard Chartered Bank Kenya",
         "swift_code": "SCBLKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "NIC Bank",
         "swift_code": "NICCKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "ABSA Bank Kenya",
         "swift_code": "BARCKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Family Bank",
         "swift_code": "FBKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "I&M Bank",
         "swift_code": "IMBLKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Huduma Bank",
         "swift_code": "HDBCKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "National Bank of Kenya",
         "swift_code": "NBOKKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Jamii Bora Bank",
         "swift_code": "JBBKKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Parliamentary Service Commission",
         "swift_code": "",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Umoja Bank",
         "swift_code": "UMBKKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Equatorial Commercial Bank",
         "swift_code": "EQCBKENX",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "Ventures Africa Bank",
         "swift_code": "",
-        "country_code": "KE"
+        "country": "KE"
     },
     {
         "bank_name": "First Community Bank",
         "swift_code": "FCBKKENX",
-        "country_code": "KE"
+        "country": "KE"
     }
 ]

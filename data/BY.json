@@ -2,66 +2,66 @@
     {
         "bank_name": "Belarusbank",
         "swift_code": "BELABY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Belagroprombank",
         "swift_code": "BAPBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Priorbank",
         "swift_code": "PRIORB22",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "BPS-Sberbank",
         "swift_code": "BPSBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Asb Belarusbank",
         "swift_code": "ASBBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "MTBank",
         "swift_code": "MTBKBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Belinvestbank",
         "swift_code": "BIBBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "VTB Bank",
         "swift_code": "VTBBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Idea Bank",
         "swift_code": "IDEBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Eurotorg Bank",
         "swift_code": "",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Dabrabyt",
         "swift_code": "DABBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Alpha Bank",
         "swift_code": "ALFBBY2X",
-        "country_code": "BY"
+        "country": "BY"
     },
     {
         "bank_name": "Sberbank of Russia",
         "swift_code": "SBERBY2X",
-        "country_code": "BY"
+        "country": "BY"
     }
 ]

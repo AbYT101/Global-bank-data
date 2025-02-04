@@ -2,46 +2,46 @@
     {
         "bank_name": "Bank of America",
         "swift_code": "BOFAUS3N",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Fidelity Bank",
         "swift_code": "FTHBUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Eastern Bank",
         "swift_code": "EASBUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Santander Bank",
         "swift_code": "SANBUS3L",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "TD Bank",
         "swift_code": "TDUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Wells Fargo Bank",
         "swift_code": "WFBIUS6S",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Rockland Trust Company",
         "swift_code": "ROCKUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Metro Credit Union",
         "swift_code": "METRUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "First Citizens' Federal Credit Union",
         "swift_code": "FCFCUS33",
-        "country_code": "US"
+        "country": "US"
     }
 ]

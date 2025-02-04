@@ -2,31 +2,31 @@
     {
         "bank_name": "Banque Centrale de Djibouti",
         "swift_code": "BCDJDJDJ",
-        "country_code": "DJ"
+        "country": "DJ"
     },
     {
         "bank_name": "Banque de Djibouti et des Comores",
         "swift_code": "BDJCDJDJ",
-        "country_code": "DJ"
+        "country": "DJ"
     },
     {
         "bank_name": "Banque Nationale de Djibouti",
         "swift_code": "BNDJDJDJ",
-        "country_code": "DJ"
+        "country": "DJ"
     },
     {
         "bank_name": "Djibouti Bank",
         "swift_code": "DJBUDJDJ",
-        "country_code": "DJ"
+        "country": "DJ"
     },
     {
         "bank_name": "Bank of Africa - Djibouti",
         "swift_code": "BOFADJDJ",
-        "country_code": "DJ"
+        "country": "DJ"
     },
     {
         "bank_name": "Abyssinia Bank",
         "swift_code": "ABYSDJDJ",
-        "country_code": "DJ"
+        "country": "DJ"
     }
 ]

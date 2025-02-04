@@ -2,51 +2,51 @@
     {
         "bank_name": "Bank of Albania",
         "swift_code": "ALBALKXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Raiffeisen Bank",
         "swift_code": "RAIFALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Intesa Sanpaolo Bank Albania",
         "swift_code": "ISPAALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Banka Boterore",
         "swift_code": "VIRUALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Banka Amerikane e Shqip\u00ebris\u00eb",
         "swift_code": "AMSHALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Union Bank",
         "swift_code": "UNBKALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Alpha Bank Albania",
         "swift_code": "CRALALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "OTP Bank Albania",
         "swift_code": "OTPVALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Provincial Bank",
         "swift_code": "PROVALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     },
     {
         "bank_name": "Eagle Mobile",
         "swift_code": "EAGLALALXXX",
-        "country_code": "AL"
+        "country": "AL"
     }
 ]

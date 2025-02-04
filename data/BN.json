@@ -2,51 +2,51 @@
     {
         "bank_name": "Bank Negara Brunei Darussalam",
         "swift_code": "BNDBBNBB",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "Bank of the Philippines Islands (BPI)",
         "swift_code": "BOPIBNPH",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "Lloyds Bank",
         "swift_code": "LLOYBNB1",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "Hong Leong Bank Berhad",
         "swift_code": "HLBBBNB1",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "Standard Chartered Bank (Brunei)",
         "swift_code": "SCBLBNB1",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "RHB Bank Berhad",
         "swift_code": "RHBBBNB1",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "CitiBank Berhad",
         "swift_code": "CITIBNB1",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "Maybank",
         "swift_code": "MBBEBNB1",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "Brunei Investment Agency",
         "swift_code": "",
-        "country_code": "BN"
+        "country": "BN"
     },
     {
         "bank_name": "Baiduri Bank Berhad",
         "swift_code": "BDFMBNB1",
-        "country_code": "BN"
+        "country": "BN"
     }
 ]

@@ -2,26 +2,26 @@
     {
         "bank_name": "Eastern Caribbean Central Bank",
         "swift_code": "ECCBECXX",
-        "country_code": "KN"
+        "country": "KN"
     },
     {
         "bank_name": "Republic Bank (Grenada) Ltd.",
         "swift_code": "RBGCGDGS",
-        "country_code": "KN"
+        "country": "KN"
     },
     {
         "bank_name": "FirstCaribbean International Bank",
         "swift_code": "FCIBBSNS",
-        "country_code": "KN"
+        "country": "KN"
     },
     {
         "bank_name": "National Bank of Dominica",
         "swift_code": "NABODMMX",
-        "country_code": "KN"
+        "country": "KN"
     },
     {
         "bank_name": "Royal Bank of Canada",
         "swift_code": "ROYCCAT2",
-        "country_code": "KN"
+        "country": "KN"
     }
 ]

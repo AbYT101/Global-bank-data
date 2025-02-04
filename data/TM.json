@@ -2,36 +2,36 @@
     {
         "bank_name": "Turkmenistan Central Bank",
         "swift_code": "TMBKTMM",
-        "country_code": "TM"
+        "country": "TM"
     },
     {
         "bank_name": "Turkmenistan State Bank",
         "swift_code": "TMSTTM22",
-        "country_code": "TM"
+        "country": "TM"
     },
     {
         "bank_name": "Vnesheconombank of Turkmenistan",
         "swift_code": "VTKTMM22",
-        "country_code": "TM"
+        "country": "TM"
     },
     {
         "bank_name": "Senagat Bank",
         "swift_code": "SNGATM22",
-        "country_code": "TM"
+        "country": "TM"
     },
     {
         "bank_name": "Dayhan Bank",
         "swift_code": "DGHNTM22",
-        "country_code": "TM"
+        "country": "TM"
     },
     {
         "bank_name": "Rysgalbank",
         "swift_code": "RYSGTM22",
-        "country_code": "TM"
+        "country": "TM"
     },
     {
         "bank_name": "T\u00fcrkmen G\u00f6rogly Bank",
         "swift_code": "TGBKTMM",
-        "country_code": "TM"
+        "country": "TM"
     }
 ]

@@ -2,51 +2,51 @@
     {
         "bank_name": "Banque Centrale de Tunisie",
         "swift_code": "BCTUTNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Banque Nationale Agricole",
         "swift_code": "BNAUTNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Banque de l'Habitat",
         "swift_code": "BHTUTNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Soci\u00e9t\u00e9 Tunisienne de Banque",
         "swift_code": "STBNTNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Amen Bank",
         "swift_code": "AMENNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Arab Tunisian Bank",
         "swift_code": "ATBNTNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Banque Tuniso-Koweitienne",
         "swift_code": "BTKUNTNT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Union Internationale de Banques",
         "swift_code": "UIBTNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Banque de Tunisie et des Emirats",
         "swift_code": "BTEUTNTT",
-        "country_code": "TN"
+        "country": "TN"
     },
     {
         "bank_name": "Caisse des D\u00e9p\u00f4ts et Consignations",
         "swift_code": "CDCTNTT",
-        "country_code": "TN"
+        "country": "TN"
     }
 ]

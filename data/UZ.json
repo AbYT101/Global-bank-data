@@ -2,81 +2,81 @@
     {
         "bank_name": "Central Bank of the Republic of Uzbekistan",
         "swift_code": "CBOUUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "National Bank of Uzbekistan",
         "swift_code": "NBUZUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Asaka Bank",
         "swift_code": "ASAKUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Agrobank",
         "swift_code": "AGRBUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Uzpromstroybank",
         "swift_code": "UZPBUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Xalq Bank",
         "swift_code": "XALQUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Turon Bank",
         "swift_code": "TURNUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Microcreditbank",
         "swift_code": "MCRBUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Kishlok Qurilish Bank",
         "swift_code": "KQBUUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Uzbekinvest",
         "swift_code": "UZINUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Asia Alliance Bank",
         "swift_code": "AABKUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Hamkorbank",
         "swift_code": "HMKRUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Kapitalbank",
         "swift_code": "KPUBUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Trustbank",
         "swift_code": "TRSTUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Ipoteka Bank",
         "swift_code": "IPBKUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     },
     {
         "bank_name": "Savdogar Bank",
         "swift_code": "SDGBUZ22",
-        "country_code": "UZ"
+        "country": "UZ"
     }
 ]

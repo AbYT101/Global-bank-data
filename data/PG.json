@@ -2,36 +2,36 @@
     {
         "bank_name": "Bank of Papua New Guinea",
         "swift_code": "BPNGPGPG",
-        "country_code": "PG"
+        "country": "PG"
     },
     {
         "bank_name": "ANZ Bank PNG",
         "swift_code": "ANZBPGPN",
-        "country_code": "PG"
+        "country": "PG"
     },
     {
         "bank_name": "Westpac Bank PNG",
         "swift_code": "WPACPGPNG",
-        "country_code": "PG"
+        "country": "PG"
     },
     {
         "bank_name": "Bank South Pacific",
         "swift_code": "BSPPPGPG",
-        "country_code": "PG"
+        "country": "PG"
     },
     {
         "bank_name": "PNG Microfinance Limited",
         "swift_code": null,
-        "country_code": "PG"
+        "country": "PG"
     },
     {
         "bank_name": "Kina Bank",
         "swift_code": "KINAPGPG",
-        "country_code": "PG"
+        "country": "PG"
     },
     {
         "bank_name": "National Development Bank",
         "swift_code": null,
-        "country_code": "PG"
+        "country": "PG"
     }
 ]

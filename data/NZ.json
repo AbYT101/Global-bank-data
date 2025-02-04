@@ -2,61 +2,61 @@
     {
         "bank_name": "ANZ Bank New Zealand",
         "swift_code": "ANZBNZ22",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "ASB Bank",
         "swift_code": "ASBBNZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "BNZ (Bank of New Zealand)",
         "swift_code": "BNZBNZ22",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "Westpac New Zealand",
         "swift_code": "WPACNZ2W",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "Kiwibank",
         "swift_code": "KIWINZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "Cooperative Bank",
         "swift_code": "COOPNZ2X",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "Heartland Bank",
         "swift_code": "HBLBNZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "Taurus Capital",
         "swift_code": "TCRRNZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "SBS Bank",
         "swift_code": "SBSBNZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "Rabobank New Zealand",
         "swift_code": "RABONZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "China Construction Bank (New Zealand)",
         "swift_code": "CCBKNZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     },
     {
         "bank_name": "Hong Leong Bank",
         "swift_code": "HLBKNZ2A",
-        "country_code": "NZ"
+        "country": "NZ"
     }
 ]

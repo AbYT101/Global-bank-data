@@ -2,71 +2,71 @@
     {
         "bank_name": "Central Bank of the Republic of Serbia",
         "swift_code": "NBSRRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Banca Intesa Beograd",
         "swift_code": "BUKORSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Raiffeisen Bank",
         "swift_code": "RZBSRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Komercijalna Banka",
         "swift_code": "KOBBRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Vojvo\u0111anska Banka",
         "swift_code": "VODBRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "UniCredit Bank",
         "swift_code": "BACXRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Intesa Sanpaolo Bank",
         "swift_code": "ISBARSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Societe Generale Bank Serbia",
         "swift_code": "SGRSRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "ProCredit Bank",
         "swift_code": "PRCBRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Eurobank Direktna",
         "swift_code": "EURBRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "OTP Banka Srbija",
         "swift_code": "OTPFRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Sberbank Srbija",
         "swift_code": "SBRSRSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Bank Po\u0161tanska \u0161tedionica",
         "swift_code": "BPSORSBG",
-        "country_code": "RS"
+        "country": "RS"
     },
     {
         "bank_name": "Zastava Bank",
         "swift_code": "ZABKRSBG",
-        "country_code": "RS"
+        "country": "RS"
     }
 ]

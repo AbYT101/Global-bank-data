@@ -2,81 +2,81 @@
     {
         "bank_name": "Banca Na\u021bional\u0103 a Rom\u00e2niei",
         "swift_code": "BNRERO10",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "BRD - Groupe Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
         "swift_code": "BRDEROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Banca Transilvania",
         "swift_code": "BTRLRO22",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "UniCredit Bank",
         "swift_code": "BACXROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Raiffeisen Bank",
         "swift_code": "RZBRROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Alpha Bank Romania",
         "swift_code": "ALFABRRO",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "CEC Bank",
         "swift_code": "CECERO22",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "OTP Bank Romania",
         "swift_code": "OTPRROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "EximBank",
         "swift_code": "EXIMROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Piraeus Bank Romania",
         "swift_code": "PIRUROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "First Bank",
         "swift_code": "FIRSROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Banca Rom\u00e2n\u0103 pentru Dezvoltare - Groupe Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
         "swift_code": "BRDEFRPP",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Bank of Cyprus Romania",
         "swift_code": "BCYPROB1",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Banca Feroviara",
         "swift_code": "BFERROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Carpatica",
         "swift_code": "CARPROBU",
-        "country_code": "RO"
+        "country": "RO"
     },
     {
         "bank_name": "Banca Comerciala SA",
         "swift_code": "BCOMROBU",
-        "country_code": "RO"
+        "country": "RO"
     }
 ]

@@ -2,101 +2,101 @@
     {
         "bank_name": "CRDB Bank Plc",
         "swift_code": "CRDBTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "NMB Bank Plc",
         "swift_code": "NMBKTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Bank of Tanzania",
         "swift_code": "BOTATZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Stanbic Bank Tanzania",
         "swift_code": "SBICTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Yetu Microfinance Bank",
         "swift_code": "YTMTTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Tanzania Investment Bank",
         "swift_code": "TIBATZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Exim Bank Tanzania",
         "swift_code": "EXIMTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "African Banking Corporation (Tanzania) Limited",
         "swift_code": "ABCTZTZT",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "United Bank for Africa (Tanzania)",
         "swift_code": "UBAATZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Standard Chartered Bank Tanzania",
         "swift_code": "SCBLTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "KCB Bank Tanzania",
         "swift_code": "KCBKTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "PostBank Tanzania",
         "swift_code": "PTBZTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Cooperative Bank of Tanzania",
         "swift_code": "CBOTTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Mbinga Community Bank",
         "swift_code": "MBGTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Finca Tanzania",
         "swift_code": "FINTTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Microfinance Bank Tanzania",
         "swift_code": "MFBKTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Sokoine University of Agriculture (SUA) Co-operative Bank",
         "swift_code": "SUAATZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Rukwa Community Bank",
         "swift_code": "RUKWTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Jumuia Bank",
         "swift_code": "JUMUTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     },
     {
         "bank_name": "Tanga Co-operative Bank Limited",
         "swift_code": "TANGTZTZ",
-        "country_code": "TZ"
+        "country": "TZ"
     }
 ]

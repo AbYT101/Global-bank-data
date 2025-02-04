@@ -2,46 +2,46 @@
     {
         "bank_name": "First Citizens Bank Limited",
         "swift_code": "FCBLTTTG",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "Republic Bank Limited",
         "swift_code": "RBLTTTTP",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "Scotiabank Trinidad and Tobago Limited",
         "swift_code": "SCOTTTTT",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "National Commercial Bank of Trinidad and Tobago",
         "swift_code": "NCBTTCPT",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "Bank of Nova Scotia",
         "swift_code": "NOSCTTTP",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "Trinidad and Tobago Central Bank",
         "swift_code": "CENTTTTT",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "Tropik Bank Limited",
         "swift_code": "TROPTTTP",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "Citi Investment Services Ltd",
         "swift_code": "CITIUS33",
-        "country_code": "TT"
+        "country": "TT"
     },
     {
         "bank_name": "The Cooperative Bank of Trinidad and Tobago",
         "swift_code": "",
-        "country_code": "TT"
+        "country": "TT"
     }
 ]

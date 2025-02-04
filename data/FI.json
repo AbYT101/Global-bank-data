@@ -2,71 +2,71 @@
     {
         "bank_name": "NORDIA BANK AB (PUBL)",
         "swift_code": "NDEAFIHH",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "OP FINANCIAL GROUP",
         "swift_code": "OKOYFIHH",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "S-PANKKI OY",
         "swift_code": "SPOPFI22",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "H\u00c4MEENLINNAN KUNTA",
         "swift_code": "HMLIFIHH",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Aktia Bank PLC",
         "swift_code": "AktiFIHH",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Danske Bank A/S",
         "swift_code": "DABAFIHH",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Bank of \u00c5land",
         "swift_code": "AHOLFIHH",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Finnish Postbank",
         "swift_code": "POFIFF21",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Nordea Bank Finland Plc",
         "swift_code": "NDEAFIHH",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Pohjola Bank Plc",
         "swift_code": "POFID22",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Savings Banks Group",
         "swift_code": "SAVFIE21",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Tapiola Bank",
         "swift_code": "TAPIFF22",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Tax Office Account",
         "swift_code": "TAXOFF22",
-        "country_code": "FI"
+        "country": "FI"
     },
     {
         "bank_name": "Uusimaa Bank",
         "swift_code": "UUSIFINN",
-        "country_code": "FI"
+        "country": "FI"
     }
 ]

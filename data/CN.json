@@ -2,96 +2,96 @@
     {
         "bank_name": "Industrial and Commercial Bank of China",
         "swift_code": "ICBKCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "China Construction Bank",
         "swift_code": "PCBCCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Agricultural Bank of China",
         "swift_code": "ABOCCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Bank of China",
         "swift_code": "BKCHCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Bank of Communications",
         "swift_code": "COMMCNSH",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "China Merchants Bank",
         "swift_code": "CMBCCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "China CITIC Bank",
         "swift_code": "CITICNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "China Everbright Bank",
         "swift_code": "CEBRCNBS",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Shanghai Pudong Development Bank",
         "swift_code": "SPDBCNBJSHA",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "China Guangfa Bank",
         "swift_code": "GDBCCNBS",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Industrial Bank",
         "swift_code": "CIBKCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Huaxia Bank",
         "swift_code": "HXBKCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Ping An Bank",
         "swift_code": "PANCCNBS",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Bank of Beijing",
         "swift_code": "BJBKCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Bank of Shanghai",
         "swift_code": "BOSHCNSH",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "China Postal Savings Bank",
         "swift_code": "PSBCCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Jiangsu Rural Credit Cooperative",
         "swift_code": "JKBCCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "Ningbo Bank",
         "swift_code": "NBGCCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     },
     {
         "bank_name": "China Development Bank",
         "swift_code": "CDBKCNBJ",
-        "country_code": "CN"
+        "country": "CN"
     }
 ]

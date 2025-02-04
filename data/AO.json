@@ -2,56 +2,56 @@
     {
         "bank_name": "Banco Nacional de Angola",
         "swift_code": "BNGAAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco de Fomento Angola",
         "swift_code": "BFANAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco Angolano de Investimentos",
         "swift_code": "BAIAAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco BIC",
         "swift_code": "BICAAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco Sol",
         "swift_code": "BNSOAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "United Bank of Africa",
         "swift_code": "UBNLAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco Keve",
         "swift_code": "BKVEAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco Econ\u00f3mico",
         "swift_code": "BNECAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco Privado Atl\u00e2ntico",
         "swift_code": "BPAAAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco Africano de Investimentos",
         "swift_code": "BAIAAOAX",
-        "country_code": "AO"
+        "country": "AO"
     },
     {
         "bank_name": "Banco de Poupan\u00e7a e Cr\u00e9dito",
         "swift_code": "BPCAAOAX",
-        "country_code": "AO"
+        "country": "AO"
     }
 ]

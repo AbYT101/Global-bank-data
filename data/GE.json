@@ -2,56 +2,56 @@
     {
         "bank_name": "National Bank of Georgia",
         "swift_code": "NBGEGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "TBC Bank",
         "swift_code": "TBCBGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "Bank of Georgia",
         "swift_code": "BGOGGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "BasisBank",
         "swift_code": "BASIGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "ProCredit Bank",
         "swift_code": "PRCIGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "VTB Bank Georgia",
         "swift_code": "VTBIGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "Liberty Bank",
         "swift_code": "LIBTGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "George Bank",
         "swift_code": "GEORGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "MagmaBank",
         "swift_code": "MAGMGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "Cartu Bank",
         "swift_code": "CARTGE22",
-        "country_code": "GE"
+        "country": "GE"
     },
     {
         "bank_name": "Bank Respublica",
         "swift_code": "RESBGE22",
-        "country_code": "GE"
+        "country": "GE"
     }
 ]

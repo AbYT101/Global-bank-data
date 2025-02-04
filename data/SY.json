@@ -2,46 +2,46 @@
     {
         "bank_name": "Central Bank of Syria",
         "swift_code": "CBSYSYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "Commercial Bank of Syria",
         "swift_code": "CBSYSYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "Syria International Islamic Bank",
         "swift_code": "SIIBSYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "Islamic Bank of Syria",
         "swift_code": "IBSYSYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "SGBL Bank Syria",
         "swift_code": "SGBLSYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "Faris Bank",
         "swift_code": "FARISYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "Jordan Saudi Bank",
         "swift_code": "JSBSYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "Lebanon & Gulf Bank",
         "swift_code": "LGBBSYDA",
-        "country_code": "SY"
+        "country": "SY"
     },
     {
         "bank_name": "The Syrian Lebanese Commercial Bank",
         "swift_code": "SLCBSYDA",
-        "country_code": "SY"
+        "country": "SY"
     }
 ]

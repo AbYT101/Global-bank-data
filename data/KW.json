@@ -2,51 +2,51 @@
     {
         "bank_name": "National Bank of Kuwait",
         "swift_code": "NBOKKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Kuwait Finance House",
         "swift_code": "KFHOKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Burgan Bank",
         "swift_code": "BURKKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Commercial Bank of Kuwait",
         "swift_code": "CBKOKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Kuwait International Bank",
         "swift_code": "KIBBKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Al Ahli Bank of Kuwait",
         "swift_code": "ABKOKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Warba Bank",
         "swift_code": "WARBKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "The Gulf Bank",
         "swift_code": "GBKOKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Al Baraka Bank",
         "swift_code": "ABARKWKW",
-        "country_code": "KW"
+        "country": "KW"
     },
     {
         "bank_name": "Kuwait Central Bank",
         "swift_code": "",
-        "country_code": "KW"
+        "country": "KW"
     }
 ]

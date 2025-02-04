@@ -2,46 +2,46 @@
     {
         "bank_name": "Banco de Cabo Verde",
         "swift_code": "BCVECV1A",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "Banco Comercial do ATL\u00e2ntico",
         "swift_code": "BCVECV1B",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "Banco Interatl\u00e2ntico",
         "swift_code": "BINTCV1A",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "Caixa Econ\u00f3mica de Cabo Verde",
         "swift_code": "CECVCV1A",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "BIC Cabo Verde",
         "swift_code": "BICVCV1A",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "Banco Mercantil de Cabo Verde",
         "swift_code": "BMCVCV1A",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "Banco Sol",
         "swift_code": "SOLVCV1A",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "Sicoob Cabo Verde",
         "swift_code": "SICOBA",
-        "country_code": "CV"
+        "country": "CV"
     },
     {
         "bank_name": "BNI Cabo Verde",
         "swift_code": "BNIVCV1A",
-        "country_code": "CV"
+        "country": "CV"
     }
 ]

@@ -2,41 +2,41 @@
     {
         "bank_name": "Banque Centrale du Tchad",
         "swift_code": "BCTHTDJA",
-        "country_code": "TD"
+        "country": "TD"
     },
     {
         "bank_name": "Banque Commerciale du Chari",
         "swift_code": "BCCHTDJA",
-        "country_code": "TD"
+        "country": "TD"
     },
     {
         "bank_name": "Compagnie Financi\u00e8re du Tchad",
         "swift_code": "CFTHTDJA",
-        "country_code": "TD"
+        "country": "TD"
     },
     {
         "bank_name": "Banque Internationale pour le Tchad",
         "swift_code": "BITCTDJA",
-        "country_code": "TD"
+        "country": "TD"
     },
     {
         "bank_name": "EcoBank Tchad",
         "swift_code": "ECOCTDJA",
-        "country_code": "TD"
+        "country": "TD"
     },
     {
         "bank_name": "Union Bank of Africa (UBA) Tchad",
         "swift_code": "UBACTDJA",
-        "country_code": "TD"
+        "country": "TD"
     },
     {
         "bank_name": "Caisse Nationale de Pr\u00e9voyance Sociale",
         "swift_code": null,
-        "country_code": "TD"
+        "country": "TD"
     },
     {
         "bank_name": "Banque de l'Habitat du Tchad",
         "swift_code": null,
-        "country_code": "TD"
+        "country": "TD"
     }
 ]

@@ -2,61 +2,61 @@
     {
         "bank_name": "Banco Central de la Rep\u00fablica Dominicana",
         "swift_code": "BCRDDOSM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco de Reservas de la Rep\u00fablica Dominicana",
         "swift_code": "BRRDOSMM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banreservas",
         "swift_code": "BRRSDOSM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Scotiabank Rep\u00fablica Dominicana",
         "swift_code": "NOSCDOSM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco Popular Dominicano",
         "swift_code": "BPDDOSMM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco BHD Le\u00f3n",
         "swift_code": "BHDLDOSM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco Caribe",
         "swift_code": "BCARDOSM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco Santa Cruz",
         "swift_code": "BSTCDOSM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Dominican Republic Development Bank",
         "swift_code": "BDRDUS33",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco Vimenca",
         "swift_code": "BVVCDOSM",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco de Ahorro y Cr\u00e9dito Fihogar",
         "swift_code": "FIHGDO31",
-        "country_code": "DO"
+        "country": "DO"
     },
     {
         "bank_name": "Banco Ahorro y Cr\u00e9dito Real",
         "swift_code": "RLDOSM31",
-        "country_code": "DO"
+        "country": "DO"
     }
 ]

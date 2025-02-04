@@ -2,61 +2,61 @@
     {
         "bank_name": "Central Bank of Armenia",
         "swift_code": "CBAAAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Armbank",
         "swift_code": "ARMBAA22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Araratbank",
         "swift_code": "ARARAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Ameriabank",
         "swift_code": "AMERAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Unibank",
         "swift_code": "UNIBAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Anelik Bank",
         "swift_code": "ANEBAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "VTB Bank Armenia",
         "swift_code": "VTBAAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Inecobank",
         "swift_code": "INECAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "HSBC Bank Armenia",
         "swift_code": "HSBCAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Prometey Bank",
         "swift_code": "PMTAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "Armenian Development Bank",
         "swift_code": "ADBAM22",
-        "country_code": "AM"
+        "country": "AM"
     },
     {
         "bank_name": "BTA Bank",
         "swift_code": "BTABAM22",
-        "country_code": "AM"
+        "country": "AM"
     }
 ]

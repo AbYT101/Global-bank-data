@@ -2,51 +2,51 @@
     {
         "bank_name": "Banque Centrale de Mauritanie",
         "swift_code": "BCMOMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Mauritania's Commercial Bank",
         "swift_code": "BCMOMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Al Baraka Bank",
         "swift_code": "ABAMMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Banque Mauritanienne de Solidarit\u00e9",
         "swift_code": "BMSOMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Banques en Mauritanie",
         "swift_code": "SGMBMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Mauritanian Bank for Commerce and Industry",
         "swift_code": "BMCIOMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Union de Banques Arabes et Fran\u00e7aises",
         "swift_code": "UBAFMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Banque de l'Habitat de Mauritanie",
         "swift_code": "BHAMMRMR",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Banque Mauritanienne pour le Commerce et l'Industrie",
         "swift_code": "BMCIOMR2",
-        "country_code": "MR"
+        "country": "MR"
     },
     {
         "bank_name": "Banque Islamique de Mauritanie",
         "swift_code": "BIMOMRMR",
-        "country_code": "MR"
+        "country": "MR"
     }
 ]

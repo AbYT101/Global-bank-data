@@ -2,51 +2,51 @@
     {
         "bank_name": "Banco de Portugal",
         "swift_code": "BPORTEPT",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Caixa Geral de Dep\u00f3sitos",
         "swift_code": "CGDOPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Banco BPI",
         "swift_code": "BOPLPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Banco Santander Totta",
         "swift_code": "STTAPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Novo Banco",
         "swift_code": "NOVOPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Banco Popular Portugal",
         "swift_code": "POPUPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Millennium bcp",
         "swift_code": "BCPAPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Banco ATLANTICO",
         "swift_code": "ATPLPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Banco Credito Agr\u00edcola",
         "swift_code": "CCAGPTPL",
-        "country_code": "PT"
+        "country": "PT"
     },
     {
         "bank_name": "Banco Invest",
         "swift_code": "BINVPTPL",
-        "country_code": "PT"
+        "country": "PT"
     }
 ]

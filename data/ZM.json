@@ -2,51 +2,51 @@
     {
         "bank_name": "Bank of Zambia",
         "swift_code": "BZCAMZMX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Zambia National Commercial Bank",
         "swift_code": "ZANAZMX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Standard Chartered Bank Zambia",
         "swift_code": "SCBLZMXXXX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "First National Bank Zambia",
         "swift_code": "FNBMZMXXXX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Absa Bank Zambia",
         "swift_code": "ABSAZMXXXX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Investec Bank Zambia",
         "swift_code": "IVZLZMXX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Zambia Cooperative Federation",
         "swift_code": "",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Nedbank Zambia",
         "swift_code": "NEDLZMXXXX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Zanaco Bank",
         "swift_code": "ZANAZMXXXX",
-        "country_code": "ZM"
+        "country": "ZM"
     },
     {
         "bank_name": "Ecobank Zambia",
         "swift_code": "ECOCZMLXXXX",
-        "country_code": "ZM"
+        "country": "ZM"
     }
 ]

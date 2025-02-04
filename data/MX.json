@@ -2,76 +2,76 @@
     {
         "bank_name": "Banco Nacional de M\u00e9xico",
         "swift_code": "BNMXMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "BBVA M\u00e9xico",
         "swift_code": "BBVA MX MM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Santander M\u00e9xico",
         "swift_code": "BMSXMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "HSBC M\u00e9xico",
         "swift_code": "HSBCMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Citibanamex",
         "swift_code": "BNMXMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Banco del Baj\u00edo",
         "swift_code": "BBAJMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Scotiabank Inverlat",
         "swift_code": "SCOTMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Banco Azteca",
         "swift_code": "BAZEMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Banco Interacciones",
         "swift_code": "BINTERMX",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Banorte",
         "swift_code": "BANOMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Banamex (Citigroup)",
         "swift_code": "CITIUS33",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Banco Invex",
         "swift_code": "INVMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "CIBanco",
         "swift_code": "CIBAMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "Unifin Financiera",
         "swift_code": "UNIFMXMM",
-        "country_code": "MX"
+        "country": "MX"
     },
     {
         "bank_name": "BanCoppel",
         "swift_code": "BAMOMXMM",
-        "country_code": "MX"
+        "country": "MX"
     }
 ]

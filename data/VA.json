@@ -2,71 +2,71 @@
     {
         "bank_name": "Wells Fargo Bank, N.A.",
         "swift_code": "WFBIUS6S",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Bank of America, N.A.",
         "swift_code": "BOFAUS3N",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "United Bank",
         "swift_code": "UBNKUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "PNC Bank, National Association",
         "swift_code": "PNCCUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "SunTrust Bank",
         "swift_code": "SNTRUS3A",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "HSBC Bank USA, N.A.",
         "swift_code": "MRMDUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Capital One, National Association",
         "swift_code": "CAPLUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Virginia National Bank",
         "swift_code": "VIABUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "First Bank",
         "swift_code": "FBUSUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "C & F Bank",
         "swift_code": "CFHSUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Eagle Bank",
         "swift_code": "EGALUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Virginia Credit Union",
         "swift_code": "",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Jefferson Bank",
         "swift_code": "JEBKUS33",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Community Bank of the Chesapeake",
         "swift_code": "CBCHKUS3",
-        "country_code": "US"
+        "country": "US"
     }
 ]

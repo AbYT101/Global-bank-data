@@ -2,26 +2,26 @@
     {
         "bank_name": "National Bank of Vanuatu",
         "swift_code": "NABVVCVB",
-        "country_code": "VU"
+        "country": "VU"
     },
     {
         "bank_name": "ANZ Vanuatu",
         "swift_code": "ANZBVUVX",
-        "country_code": "VU"
+        "country": "VU"
     },
     {
         "bank_name": "Bank of South Pacific Vanuatu",
         "swift_code": "BSPIVUVX",
-        "country_code": "VU"
+        "country": "VU"
     },
     {
         "bank_name": "Vanuatu Agricultural Bank",
         "swift_code": "VABAVUVX",
-        "country_code": "VU"
+        "country": "VU"
     },
     {
         "bank_name": "Vanuatu National Superannuation Fund",
         "swift_code": "",
-        "country_code": "VU"
+        "country": "VU"
     }
 ]

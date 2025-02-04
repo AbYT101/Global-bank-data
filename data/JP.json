@@ -2,101 +2,101 @@
     {
         "bank_name": "Mitsubishi UFJ Financial Group",
         "swift_code": "BOTKJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Sumitomo Mitsui Banking Corporation",
         "swift_code": "SMBCJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "MUFG Bank, Ltd.",
         "swift_code": "BOTKJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Mizuho Bank, Ltd.",
         "swift_code": "MHCBJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Resona Bank, Ltd.",
         "swift_code": "RSNBJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Shinsei Bank, Limited",
         "swift_code": "BKHSJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Japan Post Bank Co., Ltd.",
         "swift_code": "JPSTJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Bank of Yokohama, Ltd.",
         "swift_code": "BYKPJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Shizuoka Bank, Ltd.",
         "swift_code": "SHZBJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Daishi Bank, Ltd.",
         "swift_code": "DAISJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Hokkaido Bank",
         "swift_code": "HKBKJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Chiba Bank, Ltd.",
         "swift_code": "CHBJKRJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Akita Bank, Ltd.",
         "swift_code": "AKTBJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Shiga Bank, Ltd.",
         "swift_code": "SGBKJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Nagasaki Bank",
         "swift_code": "NAGKJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "Fukuoka Bank, Ltd.",
         "swift_code": "FKBKJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Bank of Kyoto, Ltd.",
         "swift_code": "BKYBJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Bank of Nagoya, Ltd.",
         "swift_code": "NAGOJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Yamaguchi Bank, Ltd.",
         "swift_code": "YAMBJPJT",
-        "country_code": "JP"
+        "country": "JP"
     },
     {
         "bank_name": "The Toho Bank, Ltd.",
         "swift_code": "THBKJPJT",
-        "country_code": "JP"
+        "country": "JP"
     }
 ]

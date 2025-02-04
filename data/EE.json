@@ -2,66 +2,66 @@
     {
         "bank_name": "Swedbank AS",
         "swift_code": "HABAEE2X",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "SEB Pank",
         "swift_code": "EEBLEE2X",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "LHV Pank",
         "swift_code": "LHVEET2X",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Danske Bank A/S",
         "swift_code": "DABADEFF",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Cooperative Bank",
         "swift_code": "EEBEEET2",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Citadele Banka",
         "swift_code": "PARBEE22",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Nordea Bank",
         "swift_code": "NDEAEELX",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Tallinna Krediidipank",
         "swift_code": "KREDIEE1",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "DNB ASA",
         "swift_code": "DNBANOKK",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Erste Group",
         "swift_code": "GIBAATWG",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Pohjola Bank",
         "swift_code": "POHEEELX",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "TBB Pank",
         "swift_code": "TBBEEE2X",
-        "country_code": "EE"
+        "country": "EE"
     },
     {
         "bank_name": "Pronto Kasutatud Autod AS",
         "swift_code": "",
-        "country_code": "EE"
+        "country": "EE"
     }
 ]

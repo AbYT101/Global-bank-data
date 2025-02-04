@@ -2,66 +2,66 @@
     {
         "bank_name": "Barclays Bank",
         "swift_code": "BARCGB22",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "HSBC Bank",
         "swift_code": "HSBCGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Lloyds Bank",
         "swift_code": "LOYDGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "NatWest Bank",
         "swift_code": "NWBKGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Santander UK",
         "swift_code": "ABNAGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Nationwide Building Society",
         "swift_code": "NWBKGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "The Royal Bank of Scotland",
         "swift_code": "RBOSGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Standard Chartered Bank",
         "swift_code": "SCBLGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Allied Irish Banks (UK)",
         "swift_code": "AIBKGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Co-operative Bank",
         "swift_code": "CPBKGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Bank of Scotland",
         "swift_code": "BOFSGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "TSB Bank",
         "swift_code": "TSBGGB2L",
-        "country_code": "GB"
+        "country": "GB"
     },
     {
         "bank_name": "Virgin Money UK",
         "swift_code": "VNMGGB2L",
-        "country_code": "GB"
+        "country": "GB"
     }
 ]

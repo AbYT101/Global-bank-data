@@ -2,36 +2,36 @@
     {
         "bank_name": "Bank of Madagascar",
         "swift_code": "BOMAMG",
-        "country_code": "MG"
+        "country": "MG"
     },
     {
         "bank_name": "Banque Commerciale de Madagascar",
         "swift_code": "BCMGMG",
-        "country_code": "MG"
+        "country": "MG"
     },
     {
         "bank_name": "BFV-SG",
         "swift_code": "BFVSMG",
-        "country_code": "MG"
+        "country": "MG"
     },
     {
         "bank_name": "BANQUE NATIONALE D'INVESTISSEMENT",
         "swift_code": "BNIMMG",
-        "country_code": "MG"
+        "country": "MG"
     },
     {
         "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Banques \u00e0 Madagascar",
         "swift_code": "SOGEMG",
-        "country_code": "MG"
+        "country": "MG"
     },
     {
         "bank_name": "Caisse d'Epargne et de Pr\u00e9voyance",
         "swift_code": "CEPMMG",
-        "country_code": "MG"
+        "country": "MG"
     },
     {
         "bank_name": "Microcred Madagascar",
         "swift_code": "MCDMGM",
-        "country_code": "MG"
+        "country": "MG"
     }
 ]

@@ -2,71 +2,71 @@
     {
         "bank_name": "Central Bank of Sri Lanka",
         "swift_code": "CBLALKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Commercial Bank of Ceylon",
         "swift_code": "CCBLLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Hatton National Bank",
         "swift_code": "HNBALKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Sampath Bank",
         "swift_code": "SAMPLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "People's Bank",
         "swift_code": "PEBLLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Bank of Ceylon",
         "swift_code": "BCLOYKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Nations Trust Bank",
         "swift_code": "NTBLLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Union Bank of Colombo",
         "swift_code": "UBSLLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "DFCC Bank",
         "swift_code": "DFCCLKXX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Ceylon Bank",
         "swift_code": "CAYFLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Lanka Orix Leasing Company",
         "swift_code": "LORICKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Seylan Bank",
         "swift_code": "SYBKLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Amana Bank",
         "swift_code": "AMALLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Sri Lanka Savings Bank",
         "swift_code": "",
-        "country_code": "LK"
+        "country": "LK"
     }
 ]

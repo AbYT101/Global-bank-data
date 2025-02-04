@@ -2,61 +2,61 @@
     {
         "bank_name": "\u010cesk\u00e1 n\u00e1rodn\u00ed banka",
         "swift_code": "CNBACZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "\u010cSOB",
         "swift_code": "CEKOCZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "Komer\u010dn\u00ed banka",
         "swift_code": "KOMBCZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "Raiffeisenbank",
         "swift_code": "RZBCCZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "UniCredit Bank Czech Republic and Slovakia",
         "swift_code": "BACXCZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "Fio banka",
         "swift_code": "FIOBCZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "Equa bank",
         "swift_code": "EQBACZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "Moneta Money Bank",
         "swift_code": "GEBACZPX",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "Sberbank CZ",
         "swift_code": "SPERCZPXXX",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "\u010cesk\u00e1 spo\u0159itelna",
         "swift_code": "GEBACZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "Lombard Odier",
         "swift_code": "LODACZPXXXX",
-        "country_code": "CZ"
+        "country": "CZ"
     },
     {
         "bank_name": "J&T Banka",
         "swift_code": "JTBACZPP",
-        "country_code": "CZ"
+        "country": "CZ"
     }
 ]

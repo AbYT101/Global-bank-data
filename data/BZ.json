@@ -2,46 +2,46 @@
     {
         "bank_name": "Northern Belize Bank",
         "swift_code": "NBBEBZBX",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "Belize Bank",
         "swift_code": "BELBBZBX",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "Scotiabank Belize",
         "swift_code": "NOSCBZBX",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "First Caribbean International Bank",
         "swift_code": "FCIBBZBX",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "Heritage Bank",
         "swift_code": "HBBEBZBX",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "Atlantic Bank",
         "swift_code": "ATBLBZBX",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "Cayo Credit Union",
         "swift_code": "",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "Belize Central Bank",
         "swift_code": "BCBZBZBZ",
-        "country_code": "BZ"
+        "country": "BZ"
     },
     {
         "bank_name": "Credit Union League of Belize",
         "swift_code": "",
-        "country_code": "BZ"
+        "country": "BZ"
     }
 ]

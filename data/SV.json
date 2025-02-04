@@ -2,51 +2,51 @@
     {
         "bank_name": "Banco Agr\u00edcola",
         "swift_code": "BACLESV1",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Banco Nacional de El Salvador",
         "swift_code": "BNSLESV1",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Banco de Am\u00e9rica Central",
         "swift_code": "BACLSVSS",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Scotiabank El Salvador",
         "swift_code": "NOSCSVSS",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Citibank El Salvador",
         "swift_code": "CITIUS33",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Banco Hipotecario",
         "swift_code": "BHELSVSS",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Banco CUSCATLAN",
         "swift_code": "CUSBESV1",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Banco Promerica",
         "swift_code": "PROLESV1",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Banco de los Trabajadores",
         "swift_code": "BTTLESV1",
-        "country_code": "SV"
+        "country": "SV"
     },
     {
         "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito El Rescate",
         "swift_code": "",
-        "country_code": "SV"
+        "country": "SV"
     }
 ]

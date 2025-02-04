@@ -2,36 +2,36 @@
     {
         "bank_name": "Bank of Valletta",
         "swift_code": "VALLMTMT",
-        "country_code": "MT"
+        "country": "MT"
     },
     {
         "bank_name": "HSBC Bank Malta",
         "swift_code": "MALTMTMT",
-        "country_code": "MT"
+        "country": "MT"
     },
     {
         "bank_name": "Lombard Bank Malta",
         "swift_code": "LAMBMTMT",
-        "country_code": "MT"
+        "country": "MT"
     },
     {
         "bank_name": "Malta Bank",
         "swift_code": "MALTMTMT",
-        "country_code": "MT"
+        "country": "MT"
     },
     {
         "bank_name": "Banif Bank Malta",
         "swift_code": "BAMTMTMT",
-        "country_code": "MT"
+        "country": "MT"
     },
     {
         "bank_name": "MeDirect Bank",
         "swift_code": "MEDEMTMT",
-        "country_code": "MT"
+        "country": "MT"
     },
     {
         "bank_name": "Central Bank of Malta",
         "swift_code": "CBMTMTMT",
-        "country_code": "MT"
+        "country": "MT"
     }
 ]

@@ -2,31 +2,31 @@
     {
         "bank_name": "Bank of the Republic of Sr.",
         "swift_code": "BRSRMYXX",
-        "country_code": "SR"
+        "country": "SR"
     },
     {
         "bank_name": "Suriname Bank",
         "swift_code": "SRBKMYXX",
-        "country_code": "SR"
+        "country": "SR"
     },
     {
         "bank_name": "Hakrinbank N.V.",
         "swift_code": "HAKBMYXX",
-        "country_code": "SR"
+        "country": "SR"
     },
     {
         "bank_name": "Surinaamse Volksbank",
         "swift_code": "SVBKMYXX",
-        "country_code": "SR"
+        "country": "SR"
     },
     {
         "bank_name": "Fidelity Bank Suriname",
         "swift_code": "FBSUMYXX",
-        "country_code": "SR"
+        "country": "SR"
     },
     {
         "bank_name": "De Surinaamsche Bank",
         "swift_code": "DSBMYYYY",
-        "country_code": "SR"
+        "country": "SR"
     }
 ]

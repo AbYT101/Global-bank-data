@@ -2,51 +2,51 @@
     {
         "bank_name": "Bank of Cyprus",
         "swift_code": "BCYPCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "Hellenic Bank",
         "swift_code": "HELCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "Eurobank Cyprus",
         "swift_code": "EUROCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "RCB Bank Ltd",
         "swift_code": "RCBCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "AstroBank Ltd",
         "swift_code": "ASTRCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "National Bank of Greece (Cyprus)",
         "swift_code": "NBGRCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "Cooperative Bank of Paphos",
         "swift_code": "COOPCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "Banco Santander (Cyprus)",
         "swift_code": "BSCACY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "Lebanon & Gulf Bank (Cyprus)",
         "swift_code": "LGBCY2N",
-        "country_code": "CY"
+        "country": "CY"
     },
     {
         "bank_name": "Cyprus Development Bank",
         "swift_code": "CDBLCY2N",
-        "country_code": "CY"
+        "country": "CY"
     }
 ]

@@ -2,56 +2,56 @@
     {
         "bank_name": "Erste Group Bank AG",
         "swift_code": "GIBAATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "Raiffeisen Bank International AG",
         "swift_code": "RZBAATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "UniCredit Bank Austria AG",
         "swift_code": "BKAUATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "Oesterreichische Nationalbank",
         "swift_code": "OENBATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "Sparkassen",
         "swift_code": "SPKOAT2L",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "Volksbank Wien AG",
         "swift_code": "VBOEATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "Bawag PSK",
         "swift_code": "BAWAATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "Bank f\u00fcr Arbeit und Wirtschaft AG",
         "swift_code": "BFAWATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "Maybank International",
         "swift_code": "MAYBATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "HSBC Bank Austria",
         "swift_code": "HSBCATWW",
-        "country_code": "AT"
+        "country": "AT"
     },
     {
         "bank_name": "LBBW Landesbank Baden-W\u00fcrttemberg",
         "swift_code": "BWBKDE6B",
-        "country_code": "AT"
+        "country": "AT"
     }
 ]

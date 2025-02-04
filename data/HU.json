@@ -2,81 +2,81 @@
     {
         "bank_name": "Hungarian Central Bank",
         "swift_code": "MKKBHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "OTP Bank Nyrt.",
         "swift_code": "OTPVHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "FHB Bank Zrt.",
         "swift_code": "FHBKHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "K&H Bank Zrt.",
         "swift_code": "KHBKHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "UniCredit Bank Hungary Zrt.",
         "swift_code": "BACXHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Raiffeisen Bank Zrt.",
         "swift_code": "RZBAHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "CIB Bank Zrt.",
         "swift_code": "CIBVHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "MKB Bank Nyrt.",
         "swift_code": "MKKBHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Takar\u00e9kbank Zrt.",
         "swift_code": "TAKCHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Budapest Bank Zrt.",
         "swift_code": "BBHUHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Sberbank Magyarorsz\u00e1g Zrt.",
         "swift_code": "SBERHUHX",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Gr\u00e1nit Bank Zrt.",
         "swift_code": "GRANHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Czech-Slovak Bank",
         "swift_code": "CSOBHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Volksbank Zrt.",
         "swift_code": "VOBBHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "Pannonia Takar\u00e9k",
         "swift_code": "PANLHUHB",
-        "country_code": "HU"
+        "country": "HU"
     },
     {
         "bank_name": "MKB-Pann\u00f3nia Eg\u00e9szs\u00e9gp\u00e9nzt\u00e1r",
         "swift_code": "MKPPHUHB",
-        "country_code": "HU"
+        "country": "HU"
     }
 ]

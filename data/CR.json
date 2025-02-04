@@ -2,51 +2,51 @@
     {
         "bank_name": "Banco Central de Costa Rica",
         "swift_code": "BCCRCRSJ",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Banco Nacional de Costa Rica",
         "swift_code": "BNCRCRSJ",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Banco de Costa Rica",
         "swift_code": "BCRICRSE",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Davivienda Costa Rica",
         "swift_code": "DAVI CRSJ",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Scotiabank Costa Rica",
         "swift_code": "NOSACRSJ",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "BAC Credomatic",
         "swift_code": "BACRCRSJ",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito Sagrada Familia",
         "swift_code": "",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito Coopenae",
         "swift_code": "",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Banco Promerica",
         "swift_code": "PROMCRSJ",
-        "country_code": "CR"
+        "country": "CR"
     },
     {
         "bank_name": "Banco Existente",
         "swift_code": "EXISCRSJ",
-        "country_code": "CR"
+        "country": "CR"
     }
 ]

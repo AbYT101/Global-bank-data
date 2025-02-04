@@ -2,31 +2,31 @@
     {
         "bank_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale (Monaco)",
         "swift_code": "SOGEMCMM",
-        "country_code": "MC"
+        "country": "MC"
     },
     {
         "bank_name": "Banque et Caisse d'\u00c9pargne de l'\u00c9tat",
         "swift_code": "BCEEMCMX",
-        "country_code": "MC"
+        "country": "MC"
     },
     {
         "bank_name": "Banque Populaire C\u00f4te d'Azur",
         "swift_code": "BCPAFRPP",
-        "country_code": "MC"
+        "country": "MC"
     },
     {
         "bank_name": "CMC Markets",
         "swift_code": "CMCMGB2L",
-        "country_code": "MC"
+        "country": "MC"
     },
     {
         "bank_name": "Monaco Telecom",
         "swift_code": "MTCEMCMX",
-        "country_code": "MC"
+        "country": "MC"
     },
     {
         "bank_name": "Fiduciaire de Monaco",
         "swift_code": "",
-        "country_code": "MC"
+        "country": "MC"
     }
 ]

@@ -2,26 +2,26 @@
     {
         "bank_name": "Equatorial Guinea Central Bank",
         "swift_code": "CEDB GQ",
-        "country_code": "GQ"
+        "country": "GQ"
     },
     {
         "bank_name": "Bank of the West Africa",
         "swift_code": "BWAIGQGX",
-        "country_code": "GQ"
+        "country": "GQ"
     },
     {
         "bank_name": "NNG Bank",
         "swift_code": "NNGIGQGX",
-        "country_code": "GQ"
+        "country": "GQ"
     },
     {
         "bank_name": "Ceiba Intercontinental Bank",
         "swift_code": "CIBGQGXX",
-        "country_code": "GQ"
+        "country": "GQ"
     },
     {
         "bank_name": "Equatorial Guinea Microfinance Bank",
         "swift_code": "",
-        "country_code": "GQ"
+        "country": "GQ"
     }
 ]

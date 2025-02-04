@@ -2,46 +2,46 @@
     {
         "bank_name": "Banco de Mo\u00e7ambique",
         "swift_code": "BMPOMZMA",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "Millennium Bim",
         "swift_code": "MILOMZM1",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "Standard Bank Mo\u00e7ambique",
         "swift_code": "SBMOMZMX",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "Banco Internacional de Mo\u00e7ambique",
         "swift_code": "BIMOMZMX",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "Nedbank Mo\u00e7ambique",
         "swift_code": "NEDOMZMX",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "Banco Oportunidade de Mo\u00e7ambique",
         "swift_code": "BOMOMZMX",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "BCI - Banco Comercial de Investimentos",
         "swift_code": "BCIMMZMX",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "Banco Terra",
         "swift_code": "BTERMZMX",
-        "country_code": "MZ"
+        "country": "MZ"
     },
     {
         "bank_name": "Habib Bank AG Zurich\n",
         "swift_code": "HBZUMZM1",
-        "country_code": "MZ"
+        "country": "MZ"
     }
 ]

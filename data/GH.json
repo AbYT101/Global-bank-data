@@ -2,81 +2,81 @@
     {
         "bank_name": "Bank of Ghana",
         "swift_code": "BGHAGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Absa Bank Ghana",
         "swift_code": "ABSGHACXXXX",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "ECOBANK Ghana",
         "swift_code": "ECOCGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Ghana Commercial Bank",
         "swift_code": "GCBAGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "First Atlantic Bank",
         "swift_code": "FABLGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Qualifier Bank Limited",
         "swift_code": "QLFGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Stanbic Bank Ghana",
         "swift_code": "SBACGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Zenith Bank Ghana",
         "swift_code": "ZEIBGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Universal Merchant Bank Ghana",
         "swift_code": "UMBAGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Standard Chartered Bank Ghana",
         "swift_code": "SCBLGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Republic Bank Ghana",
         "swift_code": "REPGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Union Bank of Ghana",
         "swift_code": "UNBGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Access Bank Ghana",
         "swift_code": "ACBGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "FBN Bank Ghana",
         "swift_code": "FBNAGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "Agricultural Development Bank",
         "swift_code": "ADBAGHAC",
-        "country_code": "GH"
+        "country": "GH"
     },
     {
         "bank_name": "National Investment Bank",
         "swift_code": "NIBAGHAC",
-        "country_code": "GH"
+        "country": "GH"
     }
 ]

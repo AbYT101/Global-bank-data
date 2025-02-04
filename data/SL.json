@@ -2,76 +2,76 @@
     {
         "bank_name": "Central Bank of Sri Lanka",
         "swift_code": "CBSLISO",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Bank of Ceylon",
         "swift_code": "BCOYLKEX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "People's Bank",
         "swift_code": "PEBLLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Commercial Bank of Ceylon",
         "swift_code": "CCBLLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Hatton National Bank",
         "swift_code": "HNBKLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Sampath Bank",
         "swift_code": "SAMP, LKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "National Development Bank",
         "swift_code": "NDBL.LKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Union Bank of Colombo",
         "swift_code": "UBCNLKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "DFCC Bank",
         "swift_code": "DFCCLKXX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Amana Bank",
         "swift_code": "AMNB, LKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "Cargills Bank",
         "swift_code": "CGWK, LKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "LB Finance",
         "swift_code": "LBFL, LKLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "MCB Bank",
         "swift_code": "MCBLKLLX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "NTB-National Trust Bank",
         "swift_code": "NTBLLKXX",
-        "country_code": "LK"
+        "country": "LK"
     },
     {
         "bank_name": "ICICI Bank Lanka",
         "swift_code": "ICICLKLK",
-        "country_code": "LK"
+        "country": "LK"
     }
 ]

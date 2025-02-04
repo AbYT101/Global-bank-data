@@ -2,71 +2,71 @@
     {
         "bank_name": "Korea Development Bank",
         "swift_code": "KDBLKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Industrial Bank of Korea",
         "swift_code": "IBKOKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Shinhan Bank",
         "swift_code": "SHBKKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "KB Kookmin Bank",
         "swift_code": "MRMKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Hana Bank",
         "swift_code": "HNBNKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Woori Bank",
         "swift_code": "WoorKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "NongHyup Bank",
         "swift_code": "NONGKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Korea Exchange Bank",
         "swift_code": "KEBKKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Suhyup Bank",
         "swift_code": "SYBKKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Daegu Bank",
         "swift_code": "DAEGKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Busan Bank",
         "swift_code": "BUSNKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Korea Post Bank",
         "swift_code": "KOPSKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Jeju Bank",
         "swift_code": "JEJUKRSE",
-        "country_code": "KR"
+        "country": "KR"
     },
     {
         "bank_name": "Korea Ministry of Strategy and Finance",
         "swift_code": "",
-        "country_code": "KR"
+        "country": "KR"
     }
 ]

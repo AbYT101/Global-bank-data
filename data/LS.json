@@ -2,31 +2,31 @@
     {
         "bank_name": "Central Bank of Lesotho",
         "swift_code": "CBLSLSMX",
-        "country_code": "LS"
+        "country": "LS"
     },
     {
         "bank_name": "Lesotho PostBank",
         "swift_code": "LPBLSZMX",
-        "country_code": "LS"
+        "country": "LS"
     },
     {
         "bank_name": "Standard Bank Lesotho",
         "swift_code": "SBLSLSMX",
-        "country_code": "LS"
+        "country": "LS"
     },
     {
         "bank_name": "First National Bank Lesotho",
         "swift_code": "FNBLLSMX",
-        "country_code": "LS"
+        "country": "LS"
     },
     {
         "bank_name": "AfrAsia Bank Lesotho",
         "swift_code": "AFRLWSZZ",
-        "country_code": "LS"
+        "country": "LS"
     },
     {
         "bank_name": "Lesotho Financial Services Authority",
         "swift_code": "",
-        "country_code": "LS"
+        "country": "LS"
     }
 ]

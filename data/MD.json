@@ -2,56 +2,56 @@
     {
         "bank_name": "Banca de Economii",
         "swift_code": "BDECMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Moldova Agroindbank",
         "swift_code": "AGROMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Moldova-Agroindbank",
         "swift_code": "AGROMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Moldinconbank",
         "swift_code": "MICBMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Banca Social\u0103",
         "swift_code": "BSOCMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Eximbank - Gruppo Veneto Banca",
         "swift_code": "EXIMMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Pasha Bank Moldova",
         "swift_code": "PAHAMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Promotprivatbank",
         "swift_code": "PROMMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Energbank",
         "swift_code": "ENGBMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "Fincombank",
         "swift_code": "FINCMD22",
-        "country_code": "MD"
+        "country": "MD"
     },
     {
         "bank_name": "EuroCreditBank",
         "swift_code": "EUCIMD22",
-        "country_code": "MD"
+        "country": "MD"
     }
 ]

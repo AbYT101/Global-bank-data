@@ -2,61 +2,61 @@
     {
         "bank_name": "Banque du Liban",
         "swift_code": "BLOMLBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Bank of Beirut and the Arab Countries",
         "swift_code": "BBACLBAX",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Fransabank",
         "swift_code": "FRSBLBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Lebanon and Gulf Bank",
         "swift_code": "LGBLLBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Bank of Lebanon and the Middle East",
         "swift_code": "BLMEELBB",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Byblos Bank",
         "swift_code": "BYBELLBX",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "SGBL",
         "swift_code": "SGBLLBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Lebanon & Gulf Bank",
         "swift_code": "LGBLBBBX",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Al-Mawarid Bank",
         "swift_code": "ALMBLBBA",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Lebanese Bank",
         "swift_code": "LBQLBXXXX",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Arab Bank",
         "swift_code": "ARABLBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Bank of Beirut",
         "swift_code": "BOLBLBBE",
-        "country_code": "LB"
+        "country": "LB"
     }
 ]

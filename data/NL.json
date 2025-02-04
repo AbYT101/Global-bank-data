@@ -2,66 +2,66 @@
     {
         "bank_name": "ABN AMRO Bank N.V.",
         "swift_code": "ABNANL2A",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "ING Bank N.V.",
         "swift_code": "INGBNL2A",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Rabobank",
         "swift_code": "RABONL2U",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "De Volksbank N.V.",
         "swift_code": "DEVONL2A",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "ASN Bank",
         "swift_code": "ASNBNL21",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Triodos Bank N.V.",
         "swift_code": "TRIONL2U",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Van Lanschot Kempen N.V.",
         "swift_code": "LANSNL2A",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "NIBC Bank N.V.",
         "swift_code": "NIBBNL2A",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Bunq",
         "swift_code": "BUNQNL2A",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Knab",
         "swift_code": "KNABNL2H",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Qonto",
         "swift_code": "QONTNL2A",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Aion Bank",
         "swift_code": "",
-        "country_code": "NL"
+        "country": "NL"
     },
     {
         "bank_name": "Monese",
         "swift_code": "",
-        "country_code": "NL"
+        "country": "NL"
     }
 ]

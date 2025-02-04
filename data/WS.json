@@ -2,31 +2,31 @@
     {
         "bank_name": "Samoa Commercial Bank",
         "swift_code": "SAMOWSMG",
-        "country_code": "WS"
+        "country": "WS"
     },
     {
         "bank_name": "ANZ Bank (Samoa) Ltd.",
         "swift_code": "ANZBSWSM",
-        "country_code": "WS"
+        "country": "WS"
     },
     {
         "bank_name": "Westpac Banking Corporation",
         "swift_code": "WPACWSMG",
-        "country_code": "WS"
+        "country": "WS"
     },
     {
         "bank_name": "Bank of the South Pacific",
         "swift_code": "BSPFSWSM",
-        "country_code": "WS"
+        "country": "WS"
     },
     {
         "bank_name": "Samoa Primary Industry Credit Union",
         "swift_code": "",
-        "country_code": "WS"
+        "country": "WS"
     },
     {
         "bank_name": "Samoa National Provident Fund",
         "swift_code": "",
-        "country_code": "WS"
+        "country": "WS"
     }
 ]

@@ -2,71 +2,71 @@
     {
         "bank_name": "Bank Indonesia",
         "swift_code": "BINAINA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Rakyat Indonesia (BRI)",
         "swift_code": "BRINIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Mandiri",
         "swift_code": "BMRIIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Central Asia (BCA)",
         "swift_code": "CENAIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Negara Indonesia (BNI)",
         "swift_code": "BNINIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Danamon",
         "swift_code": "BDINIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "CIMB Niaga",
         "swift_code": "BNLIIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Bukopin",
         "swift_code": "BBKPIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Maybank Indonesia",
         "swift_code": "MBBEIDJAXXX",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Permata",
         "swift_code": "ABBNIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank of Tokyo-Mitsubishi UFJ, Jakarta",
         "swift_code": "BOTKIDJX",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Syariah Indonesia",
         "swift_code": "BSINAIDJ",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Sampurna Bank",
         "swift_code": "SMVBIDJA",
-        "country_code": "ID"
+        "country": "ID"
     },
     {
         "bank_name": "Bank Papua",
         "swift_code": "BAPUIDJA",
-        "country_code": "ID"
+        "country": "ID"
     }
 ]

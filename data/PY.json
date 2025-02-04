@@ -2,56 +2,56 @@
     {
         "bank_name": "Banco Central del Paraguay",
         "swift_code": "BCPYPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco Nacional de Fomento",
         "swift_code": "BNFOPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco Ita\u00fa Paraguay S.A.",
         "swift_code": "ITPYPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco BV Paraguay",
         "swift_code": "BVPRPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco Bilbao Vizcaya Argentaria Paraguay",
         "swift_code": "BBVAPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco Continental S.A.",
         "swift_code": "BCONPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco Familiar S.A.",
         "swift_code": "FAMIPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco GNB Paraguay S.A.",
         "swift_code": "GNBAPYPY",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Banco Regional de Desarrollo S.A.",
         "swift_code": "",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Cooperativa Universitaria Ltda.",
         "swift_code": "",
-        "country_code": "PY"
+        "country": "PY"
     },
     {
         "bank_name": "Cooperativa de Ahorro y Cr\u00e9dito San Crist\u00f3bal Ltda.",
         "swift_code": "",
-        "country_code": "PY"
+        "country": "PY"
     }
 ]

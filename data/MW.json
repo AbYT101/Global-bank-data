@@ -2,51 +2,51 @@
     {
         "bank_name": "Reserve Bank of Malawi",
         "swift_code": "RBMWMWMX",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "NBS Bank",
         "swift_code": "NBMWMWMW",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "Standard Bank Malawi",
         "swift_code": "SBMAMWMW",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "FDH Bank",
         "swift_code": "FDHMWMWM",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "National Bank of Malawi",
         "swift_code": "NBMKMWMW",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "Ecobank Malawi",
         "swift_code": "ECOCMWMW",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "First Capital Bank",
         "swift_code": "FCBMZWZW",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "Independence Bank of Malawi",
         "swift_code": "IBMWMWMW",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "African Banking Corporation",
         "swift_code": "ABCMMWMW",
-        "country_code": "MW"
+        "country": "MW"
     },
     {
         "bank_name": "Opportunity Bank Malawi",
         "swift_code": "OBMWMWMW",
-        "country_code": "MW"
+        "country": "MW"
     }
 ]

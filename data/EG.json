@@ -2,71 +2,71 @@
     {
         "bank_name": "National Bank of Egypt",
         "swift_code": "NBEGEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Banque Misr",
         "swift_code": "BMISEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "National Bank of Greece (Egypt)",
         "swift_code": "NBGEEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Qatar National Bank Alahli",
         "swift_code": "QNBAEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Arab African International Bank",
         "swift_code": "AAIBEGCXXX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Suez Canal Bank",
         "swift_code": "SCBEGCDC",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Egyptian Gulf Bank",
         "swift_code": "EGBKEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Union National Bank",
         "swift_code": "UNBEGCAAAAA",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Cairo Amman Bank",
         "swift_code": "CABKEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Societe Arabe Internationale de Banque",
         "swift_code": "SAIBEGCXXXX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Bank of Alexandria",
         "swift_code": "BKALEGCXXX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Credit Agricole Egypt",
         "swift_code": "CAGMEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "The Housing and Development Bank",
         "swift_code": "HDBKEGCX",
-        "country_code": "EG"
+        "country": "EG"
     },
     {
         "bank_name": "Fawry for Banking Technology and e-Payments",
         "swift_code": "",
-        "country_code": "EG"
+        "country": "EG"
     }
 ]

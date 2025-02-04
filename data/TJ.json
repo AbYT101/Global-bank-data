@@ -2,51 +2,51 @@
     {
         "bank_name": "National Bank of Tajikistan",
         "swift_code": "NABUTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Amonatbank",
         "swift_code": "AMONTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Tojiksodirotbank",
         "swift_code": "TSBKTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Eurasian Bank of Tajikistan",
         "swift_code": "EUBKTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Agroinvestbank",
         "swift_code": "AGITTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Bank Eskhata",
         "swift_code": "BEKTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Orienbank",
         "swift_code": "ORITTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Halyk Bank Tajikistan",
         "swift_code": "HABKTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Khatlon Bank",
         "swift_code": "KHTLTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     },
     {
         "bank_name": "Imon International",
         "swift_code": "IMONTJ22",
-        "country_code": "TJ"
+        "country": "TJ"
     }
 ]

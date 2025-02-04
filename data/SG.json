@@ -2,76 +2,76 @@
     {
         "bank_name": "DBS Bank Ltd",
         "swift_code": "DBSSSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "United Overseas Bank Ltd",
         "swift_code": "UOVBSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Oversea-Chinese Banking Corporation Limited",
         "swift_code": "OCBCSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Singapore Hang Seng Bank",
         "swift_code": "HSBCSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Standard Chartered Bank",
         "swift_code": "SCBLSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Bank of China",
         "swift_code": "BKCHSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Citibank N.A.",
         "swift_code": "CITIUS33",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "HSBC Bank (Singapore) Limited",
         "swift_code": "HSBCSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Maybank",
         "swift_code": "MBBESGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "RHB Bank Berhad",
         "swift_code": "RHBBMYKL",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "KASIKORNBANK Public Company Limited",
         "swift_code": "KASITHBK",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "CIMB Bank Berhad",
         "swift_code": "CIMBSGSG",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Bank of America",
         "swift_code": "BOFAUS3N",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Wells Fargo Bank",
         "swift_code": "WFBIUS6S",
-        "country_code": "SG"
+        "country": "SG"
     },
     {
         "bank_name": "Citibank NA",
         "swift_code": "CITIUS33",
-        "country_code": "SG"
+        "country": "SG"
     }
 ]

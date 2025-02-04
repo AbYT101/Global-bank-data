@@ -2,56 +2,56 @@
     {
         "bank_name": "National Bank of Rwanda",
         "swift_code": "BPRBRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Bank of Kigali",
         "swift_code": "BKIGRWRW",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "I&M Bank Rwanda",
         "swift_code": "IMBKRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Rwanda Development Bank",
         "swift_code": "BRDPRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Access Bank Rwanda",
         "swift_code": "ABRWRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Caisse d'Epargne et de Cr\u00e9dit",
         "swift_code": "CECRRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Equity Bank Rwanda",
         "swift_code": "EQBRRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "KCB Bank Rwanda",
         "swift_code": "KCBLRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Urwego Opportunity Bank",
         "swift_code": "UOBCRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Ferwafa Bank",
         "swift_code": "FERWRWAG",
-        "country_code": "RW"
+        "country": "RW"
     },
     {
         "bank_name": "Banque Populaire du Rwanda",
         "swift_code": "BPRIRWAG",
-        "country_code": "RW"
+        "country": "RW"
     }
 ]

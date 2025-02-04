@@ -2,86 +2,86 @@
     {
         "bank_name": "Access Bank Plc",
         "swift_code": "ABNGNGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Citibank Nigeria Limited",
         "swift_code": "CITINGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Diamond Bank Plc",
         "swift_code": "DBLNGNLX",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Ecobank Nigeria",
         "swift_code": "ECONNGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Fidelity Bank Plc",
         "swift_code": "FIDINGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "First Bank of Nigeria Limited",
         "swift_code": "FBNINGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Guaranty Trust Bank Plc",
         "swift_code": "GTBINGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Heritage Bank Plc",
         "swift_code": "HBNINGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Keystone Bank Limited",
         "swift_code": "KESTNGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Polaris Bank Limited",
         "swift_code": "POLINGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Stanbic IBTC Bank Plc",
         "swift_code": "STANINGL",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Standard Chartered Bank Nigeria Limited",
         "swift_code": "SCBLNGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Union Bank of Nigeria Plc",
         "swift_code": "UNIONGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "United Bank for Africa Plc",
         "swift_code": "UNAFNGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Wema Bank Plc",
         "swift_code": "WEMANGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Zenith Bank Plc",
         "swift_code": "ZEIBNGLA",
-        "country_code": "NG"
+        "country": "NG"
     },
     {
         "bank_name": "Central Bank of Nigeria",
         "swift_code": "CBNGNGLA",
-        "country_code": "NG"
+        "country": "NG"
     }
 ]

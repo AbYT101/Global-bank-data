@@ -2,51 +2,51 @@
     {
         "bank_name": "ABLV Bank",
         "swift_code": "ABLVLV22",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "AS Baltikums",
         "swift_code": "BALTLV22",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "Citadele Bank",
         "swift_code": "CITELV22",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "Danske Bank A/S",
         "swift_code": "DABALV2X",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "SEB Bank",
         "swift_code": "CMCAPLT2",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "Swedbank",
         "swift_code": "HABALT22",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "Luminor Bank",
         "swift_code": "AGBALV2X",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "\u0160iauli\u0173 Bankas",
         "swift_code": "SABBLT22",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "Paysera LT",
         "swift_code": "PAYSLT22",
-        "country_code": "LT"
+        "country": "LT"
     },
     {
         "bank_name": "Revolut",
         "swift_code": "REVOIT21",
-        "country_code": "LT"
+        "country": "LT"
     }
 ]

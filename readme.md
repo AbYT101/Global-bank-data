@@ -29,12 +29,12 @@ Each country’s bank data is saved as a JSON file in the `/data` folder. For ex
     {
         "bank_name": "Bank of America",
         "swift_code": "BOFAUS3N",
-        "country_code": "US"
+        "country": "US"
     },
     {
         "bank_name": "Chase Bank",
         "swift_code": "CHASUS33",
-        "country_code": "US"
+        "country": "US"
     }
 ]
 ```

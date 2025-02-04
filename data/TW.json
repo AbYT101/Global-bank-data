@@ -2,81 +2,81 @@
     {
         "bank_name": "Central Bank of the Republic of China (Taiwan)",
         "swift_code": "CHWBTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Bank of Taiwan",
         "swift_code": "BKTWTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Taipei Fubon Commercial Bank",
         "swift_code": "FUBOTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Hua Nan Commercial Bank",
         "swift_code": "HNCBTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Taiwan Cooperative Bank",
         "swift_code": "TCBKTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Cathay United Bank",
         "swift_code": "CUBKTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Chinatrust Commercial Bank",
         "swift_code": "CTCBTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Taichung Bank",
         "swift_code": "TCBKTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Land Bank of Taiwan",
         "swift_code": "LBOTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Mega International Commercial Bank",
         "swift_code": "MIGTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "First Commercial Bank",
         "swift_code": "FCBTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Shanghai Commercial & Savings Bank",
         "swift_code": "SCSBTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Bank Sinopac",
         "swift_code": "BSPSTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "O.B. Commercial Bank",
         "swift_code": "OBCTWTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Entie Commercial Bank",
         "swift_code": "ENTTWTTP",
-        "country_code": "TW"
+        "country": "TW"
     },
     {
         "bank_name": "Sinyi Bank",
         "swift_code": "SYBTWTP",
-        "country_code": "TW"
+        "country": "TW"
     }
 ]

@@ -2,66 +2,66 @@
     {
         "bank_name": "Hrvatska narodna banka",
         "swift_code": "HBHRHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Zagreba\u010dka banka d.d.",
         "swift_code": "ZABAHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Privredna banka Zagreb d.d.",
         "swift_code": "PBZGHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Erste & Steierm\u00e4rkische Bank d.d.",
         "swift_code": "ESBCHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Raiffeisenbank Austria d.d.",
         "swift_code": "RZBHHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "OTP banka Hrvatska d.d.",
         "swift_code": "OTPHHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Sberbank d.d.",
         "swift_code": "SBERHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Addiko Bank d.d.",
         "swift_code": "ADBKHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "BKS Bank d.d.",
         "swift_code": "BKSHHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Istarska kreditna banka Umag d.d.",
         "swift_code": "IKBAHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "CREDIT AGRICOLE banka d.d.",
         "swift_code": "CAGLHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "W\u00fcstenrot stambena \u0161tedionica d.d.",
         "swift_code": "WUSTHR2X",
-        "country_code": "HR"
+        "country": "HR"
     },
     {
         "bank_name": "Kreditna banka Zagreb d.d.",
         "swift_code": "KBZGHR2X",
-        "country_code": "HR"
+        "country": "HR"
     }
 ]

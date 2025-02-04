@@ -2,71 +2,71 @@
     {
         "bank_name": "Central Bank of Jordan",
         "swift_code": "CBJOJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Arab Bank",
         "swift_code": "ARBKJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Jordan National Bank",
         "swift_code": "JONBJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Housing Bank for Trade and Finance",
         "swift_code": "HBJOJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Bank of Jordan",
         "swift_code": "BAJOJOAX",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Jordan Kuwait Bank",
         "swift_code": "JKBLJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Islamic International Arab Bank",
         "swift_code": "IIABJOAX",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Capital Bank of Jordan",
         "swift_code": "CBJOJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Jordan Commercial Bank",
         "swift_code": "JOCBJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Arab Investment Bank",
         "swift_code": "AIBKJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Safa Bank",
         "swift_code": "SFBKJOAX",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Bank of Africa - Jordan",
         "swift_code": "BAOFJOAX",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Jordan Islamic Bank",
         "swift_code": "JIBKJOAM",
-        "country_code": "JO"
+        "country": "JO"
     },
     {
         "bank_name": "Dubai Islamic Bank - Jordan",
         "swift_code": "DIBKJOAM",
-        "country_code": "JO"
+        "country": "JO"
     }
 ]

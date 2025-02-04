@@ -2,86 +2,86 @@
     {
         "bank_name": "UniCredit Bulbank",
         "swift_code": "UNCRBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "DSK Bank",
         "swift_code": "STSBGSFM",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Raiffeisenbank (Bulgaria)",
         "swift_code": "RZBBBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Central Cooperative Bank",
         "swift_code": "CCBGBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "First Investment Bank",
         "swift_code": "FIBBBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Bulgarian Development Bank",
         "swift_code": "BDBABGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Postbank",
         "swift_code": "BPBGBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Societe Generale Expressbank",
         "swift_code": "SGEBBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "CIBank",
         "swift_code": "CIBBBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Investbank",
         "swift_code": "IBBGBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Bulbank",
         "swift_code": "UNCRBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "TBI Bank",
         "swift_code": "TBIBBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Sofia International Bank",
         "swift_code": "SIBGBGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Banco de la Naci\u00f3n Argentina",
         "swift_code": "BNAABGSF",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "American Bank",
         "swift_code": "AMBGGB2B",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Burgas Municipal Bank",
         "swift_code": "BMNKBGSK",
-        "country_code": "BG"
+        "country": "BG"
     },
     {
         "bank_name": "Eurobank Bulgaria",
         "swift_code": "EURBBGSF",
-        "country_code": "BG"
+        "country": "BG"
     }
 ]

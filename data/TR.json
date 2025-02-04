@@ -2,81 +2,81 @@
     {
         "bank_name": "T\u00fcrkiye Cumhuriyet Merkez Bankas\u0131",
         "swift_code": "TCMBTR2A",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Ziraat Bankas\u0131",
         "swift_code": "ZiraTR2A",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "\u0130\u015fbank",
         "swift_code": "ISBKTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Garanti BBVA",
         "swift_code": "TGBATRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Yap\u0131 Kredi",
         "swift_code": "YAPITRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Halkbank",
         "swift_code": "TRHBTR2A",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Vak\u0131fBank",
         "swift_code": "VAKBTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "HSBC T\u00fcrkiye",
         "swift_code": "HSBCTRIX",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "QNB Finansinvest",
         "swift_code": "QNBKTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Anadolu Bank",
         "swift_code": "ANBKTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "\u015eekerbank",
         "swift_code": "SEKBTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "T\u00fcrkiye Fiskobirlik Bankas\u0131",
         "swift_code": "FISKTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "DenizBank",
         "swift_code": "DNZBTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Kuveyt T\u00fcrk",
         "swift_code": "KTEFTRIS",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "\u0130ntegral Yat\u0131r\u0131m",
         "swift_code": "INTEGRAL",
-        "country_code": "TR"
+        "country": "TR"
     },
     {
         "bank_name": "Anadolu Anonim T\u00fcrk Sigorta \u015eirketi",
         "swift_code": "AATTTR1A",
-        "country_code": "TR"
+        "country": "TR"
     }
 ]

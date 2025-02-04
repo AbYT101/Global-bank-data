@@ -2,31 +2,31 @@
     {
         "bank_name": "Liechtensteinische Landesbank AG",
         "swift_code": "LLBAVF22",
-        "country_code": "LI"
+        "country": "LI"
     },
     {
         "bank_name": "Bank Frick & Co. AG",
         "swift_code": "BFCRLI22",
-        "country_code": "LI"
+        "country": "LI"
     },
     {
         "bank_name": "LGT Group",
         "swift_code": "LGTKLI22",
-        "country_code": "LI"
+        "country": "LI"
     },
     {
         "bank_name": "VP Bank AG",
         "swift_code": "VPBADE6H",
-        "country_code": "LI"
+        "country": "LI"
     },
     {
         "bank_name": "Liechtensteinischer Volksbanken Verband",
         "swift_code": "LVVBLI22",
-        "country_code": "LI"
+        "country": "LI"
     },
     {
         "bank_name": "Kredittanstalt f\u00fcr Handel und Gewerbe",
         "swift_code": "KAHGLI22",
-        "country_code": "LI"
+        "country": "LI"
     }
 ]

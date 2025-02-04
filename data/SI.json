@@ -2,51 +2,51 @@
     {
         "bank_name": "NLB d.d.",
         "swift_code": "LJBASI2X",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "SB Bank d.d.",
         "swift_code": "HEALSI22",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "Abanka d.d.",
         "swift_code": "ABASSI2X",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "UniCredit Banka Slovenija d.d.",
         "swift_code": "BACXSI2X",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "Raiffeisen banka d.d.",
         "swift_code": "RAIFSI22",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "POBA Banka d.d.",
         "swift_code": "POBASI2X",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "Sberbank banka d.d.",
         "swift_code": "SBERSI2X",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "Banka Intesa Sanpaolo d.d.",
         "swift_code": "BCITSI2X",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "T Banka d.d.",
         "swift_code": "TBASI22",
-        "country_code": "SI"
+        "country": "SI"
     },
     {
         "bank_name": "Centralna banka Slovenije",
         "swift_code": "CBOSSI2X",
-        "country_code": "SI"
+        "country": "SI"
     }
 ]

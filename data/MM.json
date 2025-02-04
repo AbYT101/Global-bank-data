@@ -2,66 +2,66 @@
     {
         "bank_name": "Central Bank of Myanmar",
         "swift_code": "CBMYMMYT",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Myanmar Economic Bank",
         "swift_code": "MEBAMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Kanbawza Bank",
         "swift_code": "KBZAMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "AYA Bank",
         "swift_code": "AYAMMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Myanmar Investment and Commercial Bank",
         "swift_code": "MICBMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "United Myanmar Bank",
         "swift_code": "UMBMMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Yoma Bank",
         "swift_code": "YOMAMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "First Private Bank",
         "swift_code": "FPBMMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Asia Green Development Bank",
         "swift_code": "AGDBMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Shwe Rural and Urban Development Bank",
         "swift_code": "SRUBMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "International Bank of Myanmar",
         "swift_code": "IBMAMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Cooperative Bank (Myanmar)",
         "swift_code": "COMBMYMM",
-        "country_code": "MM"
+        "country": "MM"
     },
     {
         "bank_name": "Myanmar Citizens Bank",
         "swift_code": "MCBMMYMM",
-        "country_code": "MM"
+        "country": "MM"
     }
 ]

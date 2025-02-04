@@ -2,56 +2,56 @@
     {
         "bank_name": "Bank of Beirut and the Arab Countries",
         "swift_code": "BBACLBBA",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Fransabank",
         "swift_code": "FRANLBBA",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Lebanon & Gulf Bank",
         "swift_code": "LGBA LB 22",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Bank of Beirut",
         "swift_code": "BOMALBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "SGBL (Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Banque au Liban)",
         "swift_code": "SGBLLBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Lebanon and Middle East Bank",
         "swift_code": "LMEALBBE",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Banque Libano-Fran\u00e7aise",
         "swift_code": "BLFRLBBA",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Central Bank of Lebanon",
         "swift_code": "LEBACBBA",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Bank of Nova Scotia \u2013 Scotiabank",
         "swift_code": "NOSCBEBB",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "Al-Mawared Bank",
         "swift_code": "ALMA LB 22",
-        "country_code": "LB"
+        "country": "LB"
     },
     {
         "bank_name": "First National Bank",
         "swift_code": "FNBLBBA",
-        "country_code": "LB"
+        "country": "LB"
     }
 ]
